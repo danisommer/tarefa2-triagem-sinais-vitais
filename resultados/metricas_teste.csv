@@ -1,0 +1,87 @@
+tarefa,variante,metrica,valor
+regressao,RF,rmse,2.3818469382462366
+regressao,RF,mae,1.4728097268586597
+regressao,RF,r2,0.9785655082379303
+regressao,MLP,rmse,2.0989645922528273
+regressao,MLP,mae,1.5678846505041413
+regressao,MLP,r2,0.983354543265965
+classificacao,RF direta,acuracia,0.9333333333333333
+classificacao,RF direta,precision_1,0.9777777777777777
+classificacao,RF direta,precision_2,0.9111111111111111
+classificacao,RF direta,precision_3,0.9577464788732394
+classificacao,RF direta,precision_4,1.0
+classificacao,RF direta,recall_1,0.9361702127659575
+classificacao,RF direta,recall_2,0.9879518072289156
+classificacao,RF direta,recall_3,0.8395061728395061
+classificacao,RF direta,recall_4,0.6666666666666666
+classificacao,RF direta,f1_1,0.9565217391304348
+classificacao,RF direta,f1_2,0.9479768786127167
+classificacao,RF direta,f1_3,0.8947368421052632
+classificacao,RF direta,f1_4,0.8
+classificacao,RF direta,precision_macro,0.9616588419405321
+classificacao,RF direta,recall_macro,0.8575737148752615
+classificacao,RF direta,f1_macro,0.8998088649621037
+classificacao,RF direta,subtriagem_n,4.0
+classificacao,RF direta,subtriagem_taxa,0.013333333333333334
+classificacao,RF direta,sobretriagem_n,16.0
+classificacao,RF direta,sobretriagem_taxa,0.05333333333333334
+classificacao,RF 2 estágios,acuracia,0.9433333333333334
+classificacao,RF 2 estágios,precision_1,0.9767441860465116
+classificacao,RF 2 estágios,precision_2,0.9411764705882353
+classificacao,RF 2 estágios,precision_3,0.926829268292683
+classificacao,RF 2 estágios,precision_4,1.0
+classificacao,RF 2 estágios,recall_1,0.8936170212765957
+classificacao,RF 2 estágios,recall_2,0.963855421686747
+classificacao,RF 2 estágios,recall_3,0.9382716049382716
+classificacao,RF 2 estágios,recall_4,0.8333333333333334
+classificacao,RF 2 estágios,f1_1,0.9333333333333333
+classificacao,RF 2 estágios,f1_2,0.9523809523809523
+classificacao,RF 2 estágios,f1_3,0.9325153374233128
+classificacao,RF 2 estágios,f1_4,0.9090909090909091
+classificacao,RF 2 estágios,precision_macro,0.9611874812318575
+classificacao,RF 2 estágios,recall_macro,0.9072693453087369
+classificacao,RF 2 estágios,f1_macro,0.9318301330571269
+classificacao,RF 2 estágios,subtriagem_n,10.0
+classificacao,RF 2 estágios,subtriagem_taxa,0.03333333333333333
+classificacao,RF 2 estágios,sobretriagem_n,7.0
+classificacao,RF 2 estágios,sobretriagem_taxa,0.023333333333333334
+classificacao,MLP direta,acuracia,0.8866666666666667
+classificacao,MLP direta,precision_1,0.8444444444444444
+classificacao,MLP direta,precision_2,0.8813559322033898
+classificacao,MLP direta,precision_3,0.9436619718309859
+classificacao,MLP direta,precision_4,0.7142857142857143
+classificacao,MLP direta,recall_1,0.8085106382978723
+classificacao,MLP direta,recall_2,0.9397590361445783
+classificacao,MLP direta,recall_3,0.8271604938271605
+classificacao,MLP direta,recall_4,0.8333333333333334
+classificacao,MLP direta,f1_1,0.8260869565217391
+classificacao,MLP direta,f1_2,0.9096209912536443
+classificacao,MLP direta,f1_3,0.881578947368421
+classificacao,MLP direta,f1_4,0.7692307692307693
+classificacao,MLP direta,precision_macro,0.8459370156911337
+classificacao,MLP direta,recall_macro,0.8521908754007361
+classificacao,MLP direta,f1_macro,0.8466294160936434
+classificacao,MLP direta,subtriagem_n,14.0
+classificacao,MLP direta,subtriagem_taxa,0.04666666666666667
+classificacao,MLP direta,sobretriagem_n,20.0
+classificacao,MLP direta,sobretriagem_taxa,0.06666666666666667
+classificacao,MLP 2 estágios,acuracia,0.91
+classificacao,MLP 2 estágios,precision_1,0.7719298245614035
+classificacao,MLP 2 estágios,precision_2,0.9375
+classificacao,MLP 2 estágios,precision_3,0.9487179487179487
+classificacao,MLP 2 estágios,precision_4,1.0
+classificacao,MLP 2 estágios,recall_1,0.9361702127659575
+classificacao,MLP 2 estágios,recall_2,0.9036144578313253
+classificacao,MLP 2 estágios,recall_3,0.9135802469135802
+classificacao,MLP 2 estágios,recall_4,0.8333333333333334
+classificacao,MLP 2 estágios,f1_1,0.8461538461538461
+classificacao,MLP 2 estágios,f1_2,0.9202453987730062
+classificacao,MLP 2 estágios,f1_3,0.9308176100628931
+classificacao,MLP 2 estágios,f1_4,0.9090909090909091
+classificacao,MLP 2 estágios,precision_macro,0.914536943319838
+classificacao,MLP 2 estágios,recall_macro,0.8966745627110492
+classificacao,MLP 2 estágios,f1_macro,0.9015769410201637
+classificacao,MLP 2 estágios,subtriagem_n,6.0
+classificacao,MLP 2 estágios,subtriagem_taxa,0.02
+classificacao,MLP 2 estágios,sobretriagem_n,21.0
+classificacao,MLP 2 estágios,sobretriagem_taxa,0.07

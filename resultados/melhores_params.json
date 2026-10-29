@@ -1,0 +1,71 @@
+{
+  "RF_reg": {
+    "busca": "GridSearchCV",
+    "candidatos": 54,
+    "metrica_selecao": "rmse",
+    "score_cv": 2.7842567992169163,
+    "score_cv_desvio": 0.478353425749329,
+    "params": {
+      "max_depth": 20,
+      "max_features": 3,
+      "min_samples_leaf": 1,
+      "n_estimators": 500
+    }
+  },
+  "RF_clf": {
+    "busca": "GridSearchCV",
+    "candidatos": 162,
+    "metrica_selecao": "f1_macro",
+    "score_cv": 0.8983272868865468,
+    "score_cv_desvio": 0.02681136964811181,
+    "params": {
+      "class_weight": "balanced_subsample",
+      "max_depth": 10,
+      "max_features": 2,
+      "min_samples_leaf": 1,
+      "n_estimators": 500
+    }
+  },
+  "MLP_reg": {
+    "busca": "RandomizedSearchCV",
+    "candidatos": 40,
+    "metrica_selecao": "rmse",
+    "score_cv": 2.178005740324979,
+    "score_cv_desvio": 0.1564053526214904,
+    "params": {
+      "activation": "relu",
+      "alpha": 0.001,
+      "early_stopping": false,
+      "hidden_layer_sizes": [
+        128,
+        64
+      ],
+      "learning_rate_init": 0.001
+    },
+    "iteracoes_modelo_final": 230,
+    "max_iter": 3000
+  },
+  "MLP_clf": {
+    "busca": "RandomizedSearchCV",
+    "candidatos": 40,
+    "metrica_selecao": "f1_macro",
+    "score_cv": 0.8985060156421157,
+    "score_cv_desvio": 0.021705994868012096,
+    "params": {
+      "activation": "tanh",
+      "alpha": 0.01,
+      "early_stopping": false,
+      "hidden_layer_sizes": [
+        32
+      ],
+      "learning_rate_init": 0.001
+    },
+    "peso": null,
+    "f1_macro_cv_por_peso": {
+      "MLP_clf sem peso": 0.8985060156421157,
+      "MLP_clf balanceado": 0.8874854496668296
+    },
+    "iteracoes_modelo_final": 2254,
+    "max_iter": 3000
+  }
+}

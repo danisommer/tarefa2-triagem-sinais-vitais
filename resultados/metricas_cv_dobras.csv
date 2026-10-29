@@ -1,0 +1,2151 @@
+repeticao,dobra,tarefa,variante,metrica,valor
+1,1,regressao,RF,rmse,2.6520227382393573
+1,1,regressao,RF,mae,1.6971256815225004
+1,1,regressao,RF,r2,0.9738575344603365
+1,1,regressao,MLP,rmse,2.0054972742165256
+1,1,regressao,MLP,mae,1.476539813971694
+1,1,regressao,MLP,r2,0.9850501715344361
+1,1,classificacao,RF direta,acuracia,0.9375
+1,1,classificacao,RF direta,precision_1,1.0
+1,1,classificacao,RF direta,precision_2,0.9477611940298507
+1,1,classificacao,RF direta,precision_3,0.8823529411764706
+1,1,classificacao,RF direta,precision_4,1.0
+1,1,classificacao,RF direta,recall_1,0.9459459459459459
+1,1,classificacao,RF direta,recall_2,0.9477611940298507
+1,1,classificacao,RF direta,recall_3,0.9230769230769231
+1,1,classificacao,RF direta,recall_4,0.75
+1,1,classificacao,RF direta,f1_1,0.9722222222222222
+1,1,classificacao,RF direta,f1_2,0.9477611940298507
+1,1,classificacao,RF direta,f1_3,0.9022556390977443
+1,1,classificacao,RF direta,f1_4,0.8571428571428571
+1,1,classificacao,RF direta,precision_macro,0.9575285338015803
+1,1,classificacao,RF direta,recall_macro,0.8916960157631799
+1,1,classificacao,RF direta,f1_macro,0.9198454781231686
+1,1,classificacao,RF direta,subtriagem_n,9.0
+1,1,classificacao,RF direta,subtriagem_taxa,0.0375
+1,1,classificacao,RF direta,sobretriagem_n,6.0
+1,1,classificacao,RF direta,sobretriagem_taxa,0.025
+1,1,classificacao,RF 2 estágios,acuracia,0.9666666666666667
+1,1,classificacao,RF 2 estágios,precision_1,1.0
+1,1,classificacao,RF 2 estágios,precision_2,0.9922480620155039
+1,1,classificacao,RF 2 estágios,precision_3,0.9014084507042254
+1,1,classificacao,RF 2 estágios,precision_4,1.0
+1,1,classificacao,RF 2 estágios,recall_1,1.0
+1,1,classificacao,RF 2 estágios,recall_2,0.9552238805970149
+1,1,classificacao,RF 2 estágios,recall_3,0.9846153846153847
+1,1,classificacao,RF 2 estágios,recall_4,0.75
+1,1,classificacao,RF 2 estágios,f1_1,1.0
+1,1,classificacao,RF 2 estágios,f1_2,0.973384030418251
+1,1,classificacao,RF 2 estágios,f1_3,0.9411764705882353
+1,1,classificacao,RF 2 estágios,f1_4,0.8571428571428571
+1,1,classificacao,RF 2 estágios,precision_macro,0.9734141281799323
+1,1,classificacao,RF 2 estágios,recall_macro,0.9224598163030999
+1,1,classificacao,RF 2 estágios,f1_macro,0.9429258395373358
+1,1,classificacao,RF 2 estágios,subtriagem_n,6.0
+1,1,classificacao,RF 2 estágios,subtriagem_taxa,0.025
+1,1,classificacao,RF 2 estágios,sobretriagem_n,2.0
+1,1,classificacao,RF 2 estágios,sobretriagem_taxa,0.008333333333333333
+1,1,classificacao,MLP direta,acuracia,0.9458333333333333
+1,1,classificacao,MLP direta,precision_1,1.0
+1,1,classificacao,MLP direta,precision_2,0.9485294117647058
+1,1,classificacao,MLP direta,precision_3,0.9117647058823529
+1,1,classificacao,MLP direta,precision_4,1.0
+1,1,classificacao,MLP direta,recall_1,0.8918918918918919
+1,1,classificacao,MLP direta,recall_2,0.9626865671641791
+1,1,classificacao,MLP direta,recall_3,0.9538461538461539
+1,1,classificacao,MLP direta,recall_4,0.75
+1,1,classificacao,MLP direta,f1_1,0.9428571428571428
+1,1,classificacao,MLP direta,f1_2,0.9555555555555556
+1,1,classificacao,MLP direta,f1_3,0.9323308270676691
+1,1,classificacao,MLP direta,f1_4,0.8571428571428571
+1,1,classificacao,MLP direta,precision_macro,0.9650735294117647
+1,1,classificacao,MLP direta,recall_macro,0.8896061532255563
+1,1,classificacao,MLP direta,f1_macro,0.9219715956558062
+1,1,classificacao,MLP direta,subtriagem_n,9.0
+1,1,classificacao,MLP direta,subtriagem_taxa,0.0375
+1,1,classificacao,MLP direta,sobretriagem_n,4.0
+1,1,classificacao,MLP direta,sobretriagem_taxa,0.016666666666666666
+1,1,classificacao,MLP 2 estágios,acuracia,0.9375
+1,1,classificacao,MLP 2 estágios,precision_1,0.8947368421052632
+1,1,classificacao,MLP 2 estágios,precision_2,0.968503937007874
+1,1,classificacao,MLP 2 estágios,precision_3,0.9014084507042254
+1,1,classificacao,MLP 2 estágios,precision_4,1.0
+1,1,classificacao,MLP 2 estágios,recall_1,0.918918918918919
+1,1,classificacao,MLP 2 estágios,recall_2,0.917910447761194
+1,1,classificacao,MLP 2 estágios,recall_3,0.9846153846153847
+1,1,classificacao,MLP 2 estágios,recall_4,1.0
+1,1,classificacao,MLP 2 estágios,f1_1,0.9066666666666666
+1,1,classificacao,MLP 2 estágios,f1_2,0.9425287356321839
+1,1,classificacao,MLP 2 estágios,f1_3,0.9411764705882353
+1,1,classificacao,MLP 2 estágios,f1_4,1.0
+1,1,classificacao,MLP 2 estágios,precision_macro,0.9411623074543406
+1,1,classificacao,MLP 2 estágios,recall_macro,0.9553611878238744
+1,1,classificacao,MLP 2 estágios,f1_macro,0.9475929682217714
+1,1,classificacao,MLP 2 estágios,subtriagem_n,10.0
+1,1,classificacao,MLP 2 estágios,subtriagem_taxa,0.041666666666666664
+1,1,classificacao,MLP 2 estágios,sobretriagem_n,5.0
+1,1,classificacao,MLP 2 estágios,sobretriagem_taxa,0.020833333333333332
+1,2,regressao,RF,rmse,3.7313344908883166
+1,2,regressao,RF,mae,2.1565630340305413
+1,2,regressao,RF,r2,0.9547934206540696
+1,2,regressao,MLP,rmse,2.4673337504878874
+1,2,regressao,MLP,mae,1.6053270085106253
+1,2,regressao,MLP,r2,0.9802335317038657
+1,2,classificacao,RF direta,acuracia,0.9208333333333333
+1,2,classificacao,RF direta,precision_1,0.9705882352941176
+1,2,classificacao,RF direta,precision_2,0.9253731343283582
+1,2,classificacao,RF direta,precision_3,0.8805970149253731
+1,2,classificacao,RF direta,precision_4,1.0
+1,2,classificacao,RF direta,recall_1,0.868421052631579
+1,2,classificacao,RF direta,recall_2,0.9323308270676691
+1,2,classificacao,RF direta,recall_3,0.921875
+1,2,classificacao,RF direta,recall_4,1.0
+1,2,classificacao,RF direta,f1_1,0.9166666666666666
+1,2,classificacao,RF direta,f1_2,0.9288389513108615
+1,2,classificacao,RF direta,f1_3,0.9007633587786259
+1,2,classificacao,RF direta,f1_4,1.0
+1,2,classificacao,RF direta,precision_macro,0.9441395961369623
+1,2,classificacao,RF direta,recall_macro,0.930656719924812
+1,2,classificacao,RF direta,f1_macro,0.9365672441890385
+1,2,classificacao,RF direta,subtriagem_n,13.0
+1,2,classificacao,RF direta,subtriagem_taxa,0.05416666666666667
+1,2,classificacao,RF direta,sobretriagem_n,6.0
+1,2,classificacao,RF direta,sobretriagem_taxa,0.025
+1,2,classificacao,RF 2 estágios,acuracia,0.8916666666666667
+1,2,classificacao,RF 2 estágios,precision_1,1.0
+1,2,classificacao,RF 2 estágios,precision_2,0.9044117647058824
+1,2,classificacao,RF 2 estágios,precision_3,0.821917808219178
+1,2,classificacao,RF 2 estágios,precision_4,1.0
+1,2,classificacao,RF 2 estágios,recall_1,0.7631578947368421
+1,2,classificacao,RF 2 estágios,recall_2,0.924812030075188
+1,2,classificacao,RF 2 estágios,recall_3,0.9375
+1,2,classificacao,RF 2 estágios,recall_4,0.4
+1,2,classificacao,RF 2 estágios,f1_1,0.8656716417910447
+1,2,classificacao,RF 2 estágios,f1_2,0.9144981412639405
+1,2,classificacao,RF 2 estágios,f1_3,0.8759124087591241
+1,2,classificacao,RF 2 estágios,f1_4,0.5714285714285714
+1,2,classificacao,RF 2 estágios,precision_macro,0.931582393231265
+1,2,classificacao,RF 2 estágios,recall_macro,0.7563674812030076
+1,2,classificacao,RF 2 estágios,f1_macro,0.8068776908106701
+1,2,classificacao,RF 2 estágios,subtriagem_n,19.0
+1,2,classificacao,RF 2 estágios,subtriagem_taxa,0.07916666666666666
+1,2,classificacao,RF 2 estágios,sobretriagem_n,7.0
+1,2,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+1,2,classificacao,MLP direta,acuracia,0.9083333333333333
+1,2,classificacao,MLP direta,precision_1,0.8823529411764706
+1,2,classificacao,MLP direta,precision_2,0.9236641221374046
+1,2,classificacao,MLP direta,precision_3,0.8857142857142857
+1,2,classificacao,MLP direta,precision_4,1.0
+1,2,classificacao,MLP direta,recall_1,0.7894736842105263
+1,2,classificacao,MLP direta,recall_2,0.9097744360902256
+1,2,classificacao,MLP direta,recall_3,0.96875
+1,2,classificacao,MLP direta,recall_4,1.0
+1,2,classificacao,MLP direta,f1_1,0.8333333333333334
+1,2,classificacao,MLP direta,f1_2,0.9166666666666666
+1,2,classificacao,MLP direta,f1_3,0.9253731343283582
+1,2,classificacao,MLP direta,f1_4,1.0
+1,2,classificacao,MLP direta,precision_macro,0.9229328372570402
+1,2,classificacao,MLP direta,recall_macro,0.916999530075188
+1,2,classificacao,MLP direta,f1_macro,0.9188432835820896
+1,2,classificacao,MLP direta,subtriagem_n,16.0
+1,2,classificacao,MLP direta,subtriagem_taxa,0.06666666666666667
+1,2,classificacao,MLP direta,sobretriagem_n,6.0
+1,2,classificacao,MLP direta,sobretriagem_taxa,0.025
+1,2,classificacao,MLP 2 estágios,acuracia,0.9291666666666667
+1,2,classificacao,MLP 2 estágios,precision_1,0.8787878787878788
+1,2,classificacao,MLP 2 estágios,precision_2,0.9333333333333333
+1,2,classificacao,MLP 2 estágios,precision_3,0.9545454545454546
+1,2,classificacao,MLP 2 estágios,precision_4,0.8333333333333334
+1,2,classificacao,MLP 2 estágios,recall_1,0.7631578947368421
+1,2,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+1,2,classificacao,MLP 2 estágios,recall_3,0.984375
+1,2,classificacao,MLP 2 estágios,recall_4,1.0
+1,2,classificacao,MLP 2 estágios,f1_1,0.8169014084507042
+1,2,classificacao,MLP 2 estágios,f1_2,0.9402985074626866
+1,2,classificacao,MLP 2 estágios,f1_3,0.9692307692307692
+1,2,classificacao,MLP 2 estágios,f1_4,0.9090909090909091
+1,2,classificacao,MLP 2 estágios,precision_macro,0.9
+1,2,classificacao,MLP 2 estágios,recall_macro,0.9237253289473684
+1,2,classificacao,MLP 2 estágios,f1_macro,0.9088803985587673
+1,2,classificacao,MLP 2 estágios,subtriagem_n,13.0
+1,2,classificacao,MLP 2 estágios,subtriagem_taxa,0.05416666666666667
+1,2,classificacao,MLP 2 estágios,sobretriagem_n,4.0
+1,2,classificacao,MLP 2 estágios,sobretriagem_taxa,0.016666666666666666
+1,3,regressao,RF,rmse,2.4835241151515604
+1,3,regressao,RF,mae,1.5485767072633232
+1,3,regressao,RF,r2,0.9761339632799306
+1,3,regressao,MLP,rmse,2.1050509755942084
+1,3,regressao,MLP,mae,1.5616582513459165
+1,3,regressao,MLP,r2,0.9828537648323813
+1,3,classificacao,RF direta,acuracia,0.9416666666666667
+1,3,classificacao,RF direta,precision_1,0.972972972972973
+1,3,classificacao,RF direta,precision_2,0.9416058394160584
+1,3,classificacao,RF direta,precision_3,0.9206349206349206
+1,3,classificacao,RF direta,precision_4,1.0
+1,3,classificacao,RF direta,recall_1,0.9473684210526315
+1,3,classificacao,RF direta,recall_2,0.9699248120300752
+1,3,classificacao,RF direta,recall_3,0.90625
+1,3,classificacao,RF direta,recall_4,0.6
+1,3,classificacao,RF direta,f1_1,0.96
+1,3,classificacao,RF direta,f1_2,0.9555555555555556
+1,3,classificacao,RF direta,f1_3,0.9133858267716536
+1,3,classificacao,RF direta,f1_4,0.75
+1,3,classificacao,RF direta,precision_macro,0.9588034332559879
+1,3,classificacao,RF direta,recall_macro,0.8558858082706767
+1,3,classificacao,RF direta,f1_macro,0.8947353455818023
+1,3,classificacao,RF direta,subtriagem_n,5.0
+1,3,classificacao,RF direta,subtriagem_taxa,0.020833333333333332
+1,3,classificacao,RF direta,sobretriagem_n,9.0
+1,3,classificacao,RF direta,sobretriagem_taxa,0.0375
+1,3,classificacao,RF 2 estágios,acuracia,0.8833333333333333
+1,3,classificacao,RF 2 estágios,precision_1,1.0
+1,3,classificacao,RF 2 estágios,precision_2,0.8741258741258742
+1,3,classificacao,RF 2 estágios,precision_3,0.84375
+1,3,classificacao,RF 2 estágios,precision_4,1.0
+1,3,classificacao,RF 2 estágios,recall_1,0.7894736842105263
+1,3,classificacao,RF 2 estágios,recall_2,0.9398496240601504
+1,3,classificacao,RF 2 estágios,recall_3,0.84375
+1,3,classificacao,RF 2 estágios,recall_4,0.6
+1,3,classificacao,RF 2 estágios,f1_1,0.8823529411764706
+1,3,classificacao,RF 2 estágios,f1_2,0.9057971014492754
+1,3,classificacao,RF 2 estágios,f1_3,0.84375
+1,3,classificacao,RF 2 estágios,f1_4,0.75
+1,3,classificacao,RF 2 estágios,precision_macro,0.9294689685314685
+1,3,classificacao,RF 2 estágios,recall_macro,0.7932683270676691
+1,3,classificacao,RF 2 estágios,f1_macro,0.8454750106564365
+1,3,classificacao,RF 2 estágios,subtriagem_n,16.0
+1,3,classificacao,RF 2 estágios,subtriagem_taxa,0.06666666666666667
+1,3,classificacao,RF 2 estágios,sobretriagem_n,12.0
+1,3,classificacao,RF 2 estágios,sobretriagem_taxa,0.05
+1,3,classificacao,MLP direta,acuracia,0.9041666666666667
+1,3,classificacao,MLP direta,precision_1,0.8717948717948718
+1,3,classificacao,MLP direta,precision_2,0.9242424242424242
+1,3,classificacao,MLP direta,precision_3,0.890625
+1,3,classificacao,MLP direta,precision_4,0.8
+1,3,classificacao,MLP direta,recall_1,0.8947368421052632
+1,3,classificacao,MLP direta,recall_2,0.9172932330827067
+1,3,classificacao,MLP direta,recall_3,0.890625
+1,3,classificacao,MLP direta,recall_4,0.8
+1,3,classificacao,MLP direta,f1_1,0.8831168831168831
+1,3,classificacao,MLP direta,f1_2,0.9207547169811321
+1,3,classificacao,MLP direta,f1_3,0.890625
+1,3,classificacao,MLP direta,f1_4,0.8
+1,3,classificacao,MLP direta,precision_macro,0.871665574009324
+1,3,classificacao,MLP direta,recall_macro,0.8756637687969924
+1,3,classificacao,MLP direta,f1_macro,0.8736241500245039
+1,3,classificacao,MLP direta,subtriagem_n,11.0
+1,3,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+1,3,classificacao,MLP direta,sobretriagem_n,12.0
+1,3,classificacao,MLP direta,sobretriagem_taxa,0.05
+1,3,classificacao,MLP 2 estágios,acuracia,0.9
+1,3,classificacao,MLP 2 estágios,precision_1,0.8048780487804879
+1,3,classificacao,MLP 2 estágios,precision_2,0.9097744360902256
+1,3,classificacao,MLP 2 estágios,precision_3,0.9344262295081968
+1,3,classificacao,MLP 2 estágios,precision_4,1.0
+1,3,classificacao,MLP 2 estágios,recall_1,0.868421052631579
+1,3,classificacao,MLP 2 estágios,recall_2,0.9097744360902256
+1,3,classificacao,MLP 2 estágios,recall_3,0.890625
+1,3,classificacao,MLP 2 estágios,recall_4,1.0
+1,3,classificacao,MLP 2 estágios,f1_1,0.8354430379746836
+1,3,classificacao,MLP 2 estágios,f1_2,0.9097744360902256
+1,3,classificacao,MLP 2 estágios,f1_3,0.912
+1,3,classificacao,MLP 2 estágios,f1_4,1.0
+1,3,classificacao,MLP 2 estágios,precision_macro,0.9122696785947275
+1,3,classificacao,MLP 2 estágios,recall_macro,0.9172051221804511
+1,3,classificacao,MLP 2 estágios,f1_macro,0.9143043685162273
+1,3,classificacao,MLP 2 estágios,subtriagem_n,9.0
+1,3,classificacao,MLP 2 estágios,subtriagem_taxa,0.0375
+1,3,classificacao,MLP 2 estágios,sobretriagem_n,15.0
+1,3,classificacao,MLP 2 estágios,sobretriagem_taxa,0.0625
+1,4,regressao,RF,rmse,2.4677336090321824
+1,4,regressao,RF,mae,1.6483605494324907
+1,4,regressao,RF,r2,0.9781382205229231
+1,4,regressao,MLP,rmse,2.120304326565012
+1,4,regressao,MLP,mae,1.465819592751455
+1,4,regressao,MLP,r2,0.9838606753999233
+1,4,classificacao,RF direta,acuracia,0.9041666666666667
+1,4,classificacao,RF direta,precision_1,0.9428571428571428
+1,4,classificacao,RF direta,precision_2,0.9
+1,4,classificacao,RF direta,precision_3,0.8870967741935484
+1,4,classificacao,RF direta,precision_4,1.0
+1,4,classificacao,RF direta,recall_1,0.8918918918918919
+1,4,classificacao,RF direta,recall_2,0.9473684210526315
+1,4,classificacao,RF direta,recall_3,0.8461538461538461
+1,4,classificacao,RF direta,recall_4,0.6
+1,4,classificacao,RF direta,f1_1,0.9166666666666666
+1,4,classificacao,RF direta,f1_2,0.9230769230769231
+1,4,classificacao,RF direta,f1_3,0.8661417322834646
+1,4,classificacao,RF direta,f1_4,0.75
+1,4,classificacao,RF direta,precision_macro,0.9324884792626729
+1,4,classificacao,RF direta,recall_macro,0.8213535397745925
+1,4,classificacao,RF direta,f1_macro,0.8639713305067636
+1,4,classificacao,RF direta,subtriagem_n,9.0
+1,4,classificacao,RF direta,subtriagem_taxa,0.0375
+1,4,classificacao,RF direta,sobretriagem_n,14.0
+1,4,classificacao,RF direta,sobretriagem_taxa,0.058333333333333334
+1,4,classificacao,RF 2 estágios,acuracia,0.9125
+1,4,classificacao,RF 2 estágios,precision_1,1.0
+1,4,classificacao,RF 2 estágios,precision_2,0.9130434782608695
+1,4,classificacao,RF 2 estágios,precision_3,0.8695652173913043
+1,4,classificacao,RF 2 estágios,precision_4,1.0
+1,4,classificacao,RF 2 estágios,recall_1,0.8108108108108109
+1,4,classificacao,RF 2 estágios,recall_2,0.9473684210526315
+1,4,classificacao,RF 2 estágios,recall_3,0.9230769230769231
+1,4,classificacao,RF 2 estágios,recall_4,0.6
+1,4,classificacao,RF 2 estágios,f1_1,0.8955223880597015
+1,4,classificacao,RF 2 estágios,f1_2,0.9298892988929889
+1,4,classificacao,RF 2 estágios,f1_3,0.8955223880597015
+1,4,classificacao,RF 2 estágios,f1_4,0.75
+1,4,classificacao,RF 2 estágios,precision_macro,0.9456521739130435
+1,4,classificacao,RF 2 estágios,recall_macro,0.8203140387350915
+1,4,classificacao,RF 2 estágios,f1_macro,0.867733518753098
+1,4,classificacao,RF 2 estágios,subtriagem_n,14.0
+1,4,classificacao,RF 2 estágios,subtriagem_taxa,0.058333333333333334
+1,4,classificacao,RF 2 estágios,sobretriagem_n,7.0
+1,4,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+1,4,classificacao,MLP direta,acuracia,0.9208333333333333
+1,4,classificacao,MLP direta,precision_1,0.9393939393939394
+1,4,classificacao,MLP direta,precision_2,0.9084507042253521
+1,4,classificacao,MLP direta,precision_3,0.9354838709677419
+1,4,classificacao,MLP direta,precision_4,1.0
+1,4,classificacao,MLP direta,recall_1,0.8378378378378378
+1,4,classificacao,MLP direta,recall_2,0.9699248120300752
+1,4,classificacao,MLP direta,recall_3,0.8923076923076924
+1,4,classificacao,MLP direta,recall_4,0.6
+1,4,classificacao,MLP direta,f1_1,0.8857142857142857
+1,4,classificacao,MLP direta,f1_2,0.9381818181818182
+1,4,classificacao,MLP direta,f1_3,0.9133858267716536
+1,4,classificacao,MLP direta,f1_4,0.75
+1,4,classificacao,MLP direta,precision_macro,0.9458321286467584
+1,4,classificacao,MLP direta,recall_macro,0.8250175855439014
+1,4,classificacao,MLP direta,f1_macro,0.8718204826669393
+1,4,classificacao,MLP direta,subtriagem_n,8.0
+1,4,classificacao,MLP direta,subtriagem_taxa,0.03333333333333333
+1,4,classificacao,MLP direta,sobretriagem_n,11.0
+1,4,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+1,4,classificacao,MLP 2 estágios,acuracia,0.925
+1,4,classificacao,MLP 2 estágios,precision_1,0.825
+1,4,classificacao,MLP 2 estágios,precision_2,0.9328358208955224
+1,4,classificacao,MLP 2 estágios,precision_3,0.967741935483871
+1,4,classificacao,MLP 2 estágios,precision_4,1.0
+1,4,classificacao,MLP 2 estágios,recall_1,0.8918918918918919
+1,4,classificacao,MLP 2 estágios,recall_2,0.9398496240601504
+1,4,classificacao,MLP 2 estágios,recall_3,0.9230769230769231
+1,4,classificacao,MLP 2 estágios,recall_4,0.8
+1,4,classificacao,MLP 2 estágios,f1_1,0.8571428571428571
+1,4,classificacao,MLP 2 estágios,f1_2,0.9363295880149812
+1,4,classificacao,MLP 2 estágios,f1_3,0.9448818897637795
+1,4,classificacao,MLP 2 estágios,f1_4,0.8888888888888888
+1,4,classificacao,MLP 2 estágios,precision_macro,0.9313944390948483
+1,4,classificacao,MLP 2 estágios,recall_macro,0.8887046097572413
+1,4,classificacao,MLP 2 estágios,f1_macro,0.9068108059526266
+1,4,classificacao,MLP 2 estágios,subtriagem_n,5.0
+1,4,classificacao,MLP 2 estágios,subtriagem_taxa,0.020833333333333332
+1,4,classificacao,MLP 2 estágios,sobretriagem_n,13.0
+1,4,classificacao,MLP 2 estágios,sobretriagem_taxa,0.05416666666666667
+1,5,regressao,RF,rmse,2.5866690427731656
+1,5,regressao,RF,mae,1.7178565107791521
+1,5,regressao,RF,r2,0.9755034150128743
+1,5,regressao,MLP,rmse,2.191842374761262
+1,5,regressao,MLP,mae,1.6218010210459537
+1,5,regressao,MLP,r2,0.9824109472503801
+1,5,classificacao,RF direta,acuracia,0.9166666666666666
+1,5,classificacao,RF direta,precision_1,0.9714285714285714
+1,5,classificacao,RF direta,precision_2,0.9259259259259259
+1,5,classificacao,RF direta,precision_3,0.8656716417910447
+1,5,classificacao,RF direta,precision_4,1.0
+1,5,classificacao,RF direta,recall_1,0.918918918918919
+1,5,classificacao,RF direta,recall_2,0.9398496240601504
+1,5,classificacao,RF direta,recall_3,0.8923076923076924
+1,5,classificacao,RF direta,recall_4,0.6
+1,5,classificacao,RF direta,f1_1,0.9444444444444444
+1,5,classificacao,RF direta,f1_2,0.9328358208955224
+1,5,classificacao,RF direta,f1_3,0.8787878787878788
+1,5,classificacao,RF direta,f1_4,0.75
+1,5,classificacao,RF direta,precision_macro,0.9407565347863855
+1,5,classificacao,RF direta,recall_macro,0.8377690588216904
+1,5,classificacao,RF direta,f1_macro,0.8765170360319614
+1,5,classificacao,RF direta,subtriagem_n,10.0
+1,5,classificacao,RF direta,subtriagem_taxa,0.041666666666666664
+1,5,classificacao,RF direta,sobretriagem_n,10.0
+1,5,classificacao,RF direta,sobretriagem_taxa,0.041666666666666664
+1,5,classificacao,RF 2 estágios,acuracia,0.9333333333333333
+1,5,classificacao,RF 2 estágios,precision_1,1.0
+1,5,classificacao,RF 2 estágios,precision_2,0.9347826086956522
+1,5,classificacao,RF 2 estágios,precision_3,0.8955223880597015
+1,5,classificacao,RF 2 estágios,precision_4,1.0
+1,5,classificacao,RF 2 estágios,recall_1,0.8918918918918919
+1,5,classificacao,RF 2 estágios,recall_2,0.9699248120300752
+1,5,classificacao,RF 2 estágios,recall_3,0.9230769230769231
+1,5,classificacao,RF 2 estágios,recall_4,0.4
+1,5,classificacao,RF 2 estágios,f1_1,0.9428571428571428
+1,5,classificacao,RF 2 estágios,f1_2,0.9520295202952029
+1,5,classificacao,RF 2 estágios,f1_3,0.9090909090909091
+1,5,classificacao,RF 2 estágios,f1_4,0.5714285714285714
+1,5,classificacao,RF 2 estágios,precision_macro,0.9575762491888384
+1,5,classificacao,RF 2 estágios,recall_macro,0.7962234067497226
+1,5,classificacao,RF 2 estágios,f1_macro,0.8438515359179566
+1,5,classificacao,RF 2 estágios,subtriagem_n,8.0
+1,5,classificacao,RF 2 estágios,subtriagem_taxa,0.03333333333333333
+1,5,classificacao,RF 2 estágios,sobretriagem_n,8.0
+1,5,classificacao,RF 2 estágios,sobretriagem_taxa,0.03333333333333333
+1,5,classificacao,MLP direta,acuracia,0.925
+1,5,classificacao,MLP direta,precision_1,0.9375
+1,5,classificacao,MLP direta,precision_2,0.9027777777777778
+1,5,classificacao,MLP direta,precision_3,0.9666666666666667
+1,5,classificacao,MLP direta,precision_4,1.0
+1,5,classificacao,MLP direta,recall_1,0.8108108108108109
+1,5,classificacao,MLP direta,recall_2,0.9774436090225563
+1,5,classificacao,MLP direta,recall_3,0.8923076923076924
+1,5,classificacao,MLP direta,recall_4,0.8
+1,5,classificacao,MLP direta,f1_1,0.8695652173913043
+1,5,classificacao,MLP direta,f1_2,0.9386281588447654
+1,5,classificacao,MLP direta,f1_3,0.928
+1,5,classificacao,MLP direta,f1_4,0.8888888888888888
+1,5,classificacao,MLP direta,precision_macro,0.9517361111111111
+1,5,classificacao,MLP direta,recall_macro,0.870140528035265
+1,5,classificacao,MLP direta,f1_macro,0.9062705662812396
+1,5,classificacao,MLP direta,subtriagem_n,8.0
+1,5,classificacao,MLP direta,subtriagem_taxa,0.03333333333333333
+1,5,classificacao,MLP direta,sobretriagem_n,10.0
+1,5,classificacao,MLP direta,sobretriagem_taxa,0.041666666666666664
+1,5,classificacao,MLP 2 estágios,acuracia,0.9375
+1,5,classificacao,MLP 2 estágios,precision_1,0.8857142857142857
+1,5,classificacao,MLP 2 estágios,precision_2,0.9214285714285714
+1,5,classificacao,MLP 2 estágios,precision_3,1.0
+1,5,classificacao,MLP 2 estágios,precision_4,1.0
+1,5,classificacao,MLP 2 estágios,recall_1,0.8378378378378378
+1,5,classificacao,MLP 2 estágios,recall_2,0.9699248120300752
+1,5,classificacao,MLP 2 estágios,recall_3,0.9230769230769231
+1,5,classificacao,MLP 2 estágios,recall_4,1.0
+1,5,classificacao,MLP 2 estágios,f1_1,0.8611111111111112
+1,5,classificacao,MLP 2 estágios,f1_2,0.945054945054945
+1,5,classificacao,MLP 2 estágios,f1_3,0.96
+1,5,classificacao,MLP 2 estágios,f1_4,1.0
+1,5,classificacao,MLP 2 estágios,precision_macro,0.9517857142857142
+1,5,classificacao,MLP 2 estágios,recall_macro,0.932709893236209
+1,5,classificacao,MLP 2 estágios,f1_macro,0.941541514041514
+1,5,classificacao,MLP 2 estágios,subtriagem_n,6.0
+1,5,classificacao,MLP 2 estágios,subtriagem_taxa,0.025
+1,5,classificacao,MLP 2 estágios,sobretriagem_n,9.0
+1,5,classificacao,MLP 2 estágios,sobretriagem_taxa,0.0375
+2,1,regressao,RF,rmse,2.5822006774293036
+2,1,regressao,RF,mae,1.7900314810375026
+2,1,regressao,RF,r2,0.9748751836693461
+2,1,regressao,MLP,rmse,2.0712691447347398
+2,1,regressao,MLP,mae,1.5367003306830753
+2,1,regressao,MLP,r2,0.9838342452653515
+2,1,classificacao,RF direta,acuracia,0.9125
+2,1,classificacao,RF direta,precision_1,0.9411764705882353
+2,1,classificacao,RF direta,precision_2,0.9071428571428571
+2,1,classificacao,RF direta,precision_3,0.9047619047619048
+2,1,classificacao,RF direta,precision_4,1.0
+2,1,classificacao,RF direta,recall_1,0.8648648648648649
+2,1,classificacao,RF direta,recall_2,0.9477611940298507
+2,1,classificacao,RF direta,recall_3,0.8769230769230769
+2,1,classificacao,RF direta,recall_4,0.75
+2,1,classificacao,RF direta,f1_1,0.9014084507042254
+2,1,classificacao,RF direta,f1_2,0.927007299270073
+2,1,classificacao,RF direta,f1_3,0.890625
+2,1,classificacao,RF direta,f1_4,0.8571428571428571
+2,1,classificacao,RF direta,precision_macro,0.9382703081232493
+2,1,classificacao,RF direta,recall_macro,0.8598872839544481
+2,1,classificacao,RF direta,f1_macro,0.8940459017792889
+2,1,classificacao,RF direta,subtriagem_n,10.0
+2,1,classificacao,RF direta,subtriagem_taxa,0.041666666666666664
+2,1,classificacao,RF direta,sobretriagem_n,11.0
+2,1,classificacao,RF direta,sobretriagem_taxa,0.04583333333333333
+2,1,classificacao,RF 2 estágios,acuracia,0.9458333333333333
+2,1,classificacao,RF 2 estágios,precision_1,1.0
+2,1,classificacao,RF 2 estágios,precision_2,0.9357142857142857
+2,1,classificacao,RF 2 estágios,precision_3,0.9393939393939394
+2,1,classificacao,RF 2 estágios,precision_4,1.0
+2,1,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+2,1,classificacao,RF 2 estágios,recall_2,0.9776119402985075
+2,1,classificacao,RF 2 estágios,recall_3,0.9538461538461539
+2,1,classificacao,RF 2 estágios,recall_4,0.75
+2,1,classificacao,RF 2 estágios,f1_1,0.9117647058823529
+2,1,classificacao,RF 2 estágios,f1_2,0.9562043795620438
+2,1,classificacao,RF 2 estágios,f1_3,0.9465648854961832
+2,1,classificacao,RF 2 estágios,f1_4,0.8571428571428571
+2,1,classificacao,RF 2 estágios,precision_macro,0.9687770562770563
+2,1,classificacao,RF 2 estágios,recall_macro,0.8798239829956248
+2,1,classificacao,RF 2 estágios,f1_macro,0.9179192070208594
+2,1,classificacao,RF 2 estágios,subtriagem_n,9.0
+2,1,classificacao,RF 2 estágios,subtriagem_taxa,0.0375
+2,1,classificacao,RF 2 estágios,sobretriagem_n,4.0
+2,1,classificacao,RF 2 estágios,sobretriagem_taxa,0.016666666666666666
+2,1,classificacao,MLP direta,acuracia,0.9416666666666667
+2,1,classificacao,MLP direta,precision_1,0.9705882352941176
+2,1,classificacao,MLP direta,precision_2,0.9416058394160584
+2,1,classificacao,MLP direta,precision_3,0.9242424242424242
+2,1,classificacao,MLP direta,precision_4,1.0
+2,1,classificacao,MLP direta,recall_1,0.8918918918918919
+2,1,classificacao,MLP direta,recall_2,0.9626865671641791
+2,1,classificacao,MLP direta,recall_3,0.9384615384615385
+2,1,classificacao,MLP direta,recall_4,0.75
+2,1,classificacao,MLP direta,f1_1,0.9295774647887324
+2,1,classificacao,MLP direta,f1_2,0.9520295202952029
+2,1,classificacao,MLP direta,f1_3,0.9312977099236641
+2,1,classificacao,MLP direta,f1_4,0.8571428571428571
+2,1,classificacao,MLP direta,precision_macro,0.95910912473815
+2,1,classificacao,MLP direta,recall_macro,0.8857599993794023
+2,1,classificacao,MLP direta,f1_macro,0.9175118880376142
+2,1,classificacao,MLP direta,subtriagem_n,8.0
+2,1,classificacao,MLP direta,subtriagem_taxa,0.03333333333333333
+2,1,classificacao,MLP direta,sobretriagem_n,6.0
+2,1,classificacao,MLP direta,sobretriagem_taxa,0.025
+2,1,classificacao,MLP 2 estágios,acuracia,0.9416666666666667
+2,1,classificacao,MLP 2 estágios,precision_1,0.8717948717948718
+2,1,classificacao,MLP 2 estágios,precision_2,0.9618320610687023
+2,1,classificacao,MLP 2 estágios,precision_3,0.9538461538461539
+2,1,classificacao,MLP 2 estágios,precision_4,0.8
+2,1,classificacao,MLP 2 estágios,recall_1,0.918918918918919
+2,1,classificacao,MLP 2 estágios,recall_2,0.9402985074626866
+2,1,classificacao,MLP 2 estágios,recall_3,0.9538461538461539
+2,1,classificacao,MLP 2 estágios,recall_4,1.0
+2,1,classificacao,MLP 2 estágios,f1_1,0.8947368421052632
+2,1,classificacao,MLP 2 estágios,f1_2,0.9509433962264151
+2,1,classificacao,MLP 2 estágios,f1_3,0.9538461538461539
+2,1,classificacao,MLP 2 estágios,f1_4,0.8888888888888888
+2,1,classificacao,MLP 2 estágios,precision_macro,0.8968682716774321
+2,1,classificacao,MLP 2 estágios,recall_macro,0.9532658950569399
+2,1,classificacao,MLP 2 estágios,f1_macro,0.9221038202666803
+2,1,classificacao,MLP 2 estágios,subtriagem_n,7.0
+2,1,classificacao,MLP 2 estágios,subtriagem_taxa,0.029166666666666667
+2,1,classificacao,MLP 2 estágios,sobretriagem_n,7.0
+2,1,classificacao,MLP 2 estágios,sobretriagem_taxa,0.029166666666666667
+2,2,regressao,RF,rmse,2.8222954408347194
+2,2,regressao,RF,mae,1.677125126732735
+2,2,regressao,RF,r2,0.9696185956052628
+2,2,regressao,MLP,rmse,2.482245271742516
+2,2,regressao,MLP,mae,1.7241363719521392
+2,2,regressao,MLP,r2,0.976498678631806
+2,2,classificacao,RF direta,acuracia,0.9208333333333333
+2,2,classificacao,RF direta,precision_1,0.9722222222222222
+2,2,classificacao,RF direta,precision_2,0.9393939393939394
+2,2,classificacao,RF direta,precision_3,0.855072463768116
+2,2,classificacao,RF direta,precision_4,1.0
+2,2,classificacao,RF direta,recall_1,0.9210526315789473
+2,2,classificacao,RF direta,recall_2,0.9323308270676691
+2,2,classificacao,RF direta,recall_3,0.921875
+2,2,classificacao,RF direta,recall_4,0.6
+2,2,classificacao,RF direta,f1_1,0.9459459459459459
+2,2,classificacao,RF direta,f1_2,0.9358490566037736
+2,2,classificacao,RF direta,f1_3,0.8872180451127819
+2,2,classificacao,RF direta,f1_4,0.75
+2,2,classificacao,RF direta,precision_macro,0.9416721563460695
+2,2,classificacao,RF direta,recall_macro,0.8438146146616542
+2,2,classificacao,RF direta,f1_macro,0.8797532619156253
+2,2,classificacao,RF direta,subtriagem_n,11.0
+2,2,classificacao,RF direta,subtriagem_taxa,0.04583333333333333
+2,2,classificacao,RF direta,sobretriagem_n,8.0
+2,2,classificacao,RF direta,sobretriagem_taxa,0.03333333333333333
+2,2,classificacao,RF 2 estágios,acuracia,0.9208333333333333
+2,2,classificacao,RF 2 estágios,precision_1,1.0
+2,2,classificacao,RF 2 estágios,precision_2,0.9078014184397163
+2,2,classificacao,RF 2 estágios,precision_3,0.9047619047619048
+2,2,classificacao,RF 2 estágios,precision_4,1.0
+2,2,classificacao,RF 2 estágios,recall_1,0.8421052631578947
+2,2,classificacao,RF 2 estágios,recall_2,0.9624060150375939
+2,2,classificacao,RF 2 estágios,recall_3,0.890625
+2,2,classificacao,RF 2 estágios,recall_4,0.8
+2,2,classificacao,RF 2 estágios,f1_1,0.9142857142857143
+2,2,classificacao,RF 2 estágios,f1_2,0.9343065693430657
+2,2,classificacao,RF 2 estágios,f1_3,0.8976377952755905
+2,2,classificacao,RF 2 estágios,f1_4,0.8888888888888888
+2,2,classificacao,RF 2 estágios,precision_macro,0.9531408308004052
+2,2,classificacao,RF 2 estágios,recall_macro,0.8737840695488721
+2,2,classificacao,RF 2 estágios,f1_macro,0.9087797419483149
+2,2,classificacao,RF 2 estágios,subtriagem_n,11.0
+2,2,classificacao,RF 2 estágios,subtriagem_taxa,0.04583333333333333
+2,2,classificacao,RF 2 estágios,sobretriagem_n,8.0
+2,2,classificacao,RF 2 estágios,sobretriagem_taxa,0.03333333333333333
+2,2,classificacao,MLP direta,acuracia,0.8916666666666667
+2,2,classificacao,MLP direta,precision_1,0.9285714285714286
+2,2,classificacao,MLP direta,precision_2,0.8707482993197279
+2,2,classificacao,MLP direta,precision_3,0.9193548387096774
+2,2,classificacao,MLP direta,precision_4,1.0
+2,2,classificacao,MLP direta,recall_1,0.6842105263157895
+2,2,classificacao,MLP direta,recall_2,0.9624060150375939
+2,2,classificacao,MLP direta,recall_3,0.890625
+2,2,classificacao,MLP direta,recall_4,0.6
+2,2,classificacao,MLP direta,f1_1,0.7878787878787878
+2,2,classificacao,MLP direta,f1_2,0.9142857142857143
+2,2,classificacao,MLP direta,f1_3,0.9047619047619048
+2,2,classificacao,MLP direta,f1_4,0.75
+2,2,classificacao,MLP direta,precision_macro,0.9296686416502085
+2,2,classificacao,MLP direta,recall_macro,0.7843103853383459
+2,2,classificacao,MLP direta,f1_macro,0.8392316017316017
+2,2,classificacao,MLP direta,subtriagem_n,15.0
+2,2,classificacao,MLP direta,subtriagem_taxa,0.0625
+2,2,classificacao,MLP direta,sobretriagem_n,11.0
+2,2,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+2,2,classificacao,MLP 2 estágios,acuracia,0.9125
+2,2,classificacao,MLP 2 estágios,precision_1,0.9090909090909091
+2,2,classificacao,MLP 2 estágios,precision_2,0.9
+2,2,classificacao,MLP 2 estágios,precision_3,0.9354838709677419
+2,2,classificacao,MLP 2 estágios,precision_4,1.0
+2,2,classificacao,MLP 2 estágios,recall_1,0.7894736842105263
+2,2,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+2,2,classificacao,MLP 2 estágios,recall_3,0.90625
+2,2,classificacao,MLP 2 estágios,recall_4,1.0
+2,2,classificacao,MLP 2 estágios,f1_1,0.8450704225352113
+2,2,classificacao,MLP 2 estágios,f1_2,0.9230769230769231
+2,2,classificacao,MLP 2 estágios,f1_3,0.9206349206349206
+2,2,classificacao,MLP 2 estágios,f1_4,1.0
+2,2,classificacao,MLP 2 estágios,precision_macro,0.9361436950146628
+2,2,classificacao,MLP 2 estágios,recall_macro,0.9107730263157895
+2,2,classificacao,MLP 2 estágios,f1_macro,0.9221955665617637
+2,2,classificacao,MLP 2 estágios,subtriagem_n,12.0
+2,2,classificacao,MLP 2 estágios,subtriagem_taxa,0.05
+2,2,classificacao,MLP 2 estágios,sobretriagem_n,9.0
+2,2,classificacao,MLP 2 estágios,sobretriagem_taxa,0.0375
+2,3,regressao,RF,rmse,3.3224352415071428
+2,3,regressao,RF,mae,1.912995483075005
+2,3,regressao,RF,r2,0.9629995424625515
+2,3,regressao,MLP,rmse,2.212879939021016
+2,3,regressao,MLP,mae,1.5422806608986999
+2,3,regressao,MLP,r2,0.9835861769056928
+2,3,classificacao,RF direta,acuracia,0.925
+2,3,classificacao,RF direta,precision_1,0.972972972972973
+2,3,classificacao,RF direta,precision_2,0.920863309352518
+2,3,classificacao,RF direta,precision_3,0.9152542372881356
+2,3,classificacao,RF direta,precision_4,0.8
+2,3,classificacao,RF direta,recall_1,0.9473684210526315
+2,3,classificacao,RF direta,recall_2,0.9624060150375939
+2,3,classificacao,RF direta,recall_3,0.84375
+2,3,classificacao,RF direta,recall_4,0.8
+2,3,classificacao,RF direta,f1_1,0.96
+2,3,classificacao,RF direta,f1_2,0.9411764705882353
+2,3,classificacao,RF direta,f1_3,0.8780487804878049
+2,3,classificacao,RF direta,f1_4,0.8
+2,3,classificacao,RF direta,precision_macro,0.9022726299034067
+2,3,classificacao,RF direta,recall_macro,0.8883811090225564
+2,3,classificacao,RF direta,f1_macro,0.89480631276901
+2,3,classificacao,RF direta,subtriagem_n,7.0
+2,3,classificacao,RF direta,subtriagem_taxa,0.029166666666666667
+2,3,classificacao,RF direta,sobretriagem_n,11.0
+2,3,classificacao,RF direta,sobretriagem_taxa,0.04583333333333333
+2,3,classificacao,RF 2 estágios,acuracia,0.9208333333333333
+2,3,classificacao,RF 2 estágios,precision_1,1.0
+2,3,classificacao,RF 2 estágios,precision_2,0.9214285714285714
+2,3,classificacao,RF 2 estágios,precision_3,0.8805970149253731
+2,3,classificacao,RF 2 estágios,precision_4,1.0
+2,3,classificacao,RF 2 estágios,recall_1,0.8421052631578947
+2,3,classificacao,RF 2 estágios,recall_2,0.9699248120300752
+2,3,classificacao,RF 2 estágios,recall_3,0.921875
+2,3,classificacao,RF 2 estágios,recall_4,0.2
+2,3,classificacao,RF 2 estágios,f1_1,0.9142857142857143
+2,3,classificacao,RF 2 estágios,f1_2,0.945054945054945
+2,3,classificacao,RF 2 estágios,f1_3,0.9007633587786259
+2,3,classificacao,RF 2 estágios,f1_4,0.3333333333333333
+2,3,classificacao,RF 2 estágios,precision_macro,0.9505063965884861
+2,3,classificacao,RF 2 estágios,recall_macro,0.7334762687969925
+2,3,classificacao,RF 2 estágios,f1_macro,0.7733593378631547
+2,3,classificacao,RF 2 estágios,subtriagem_n,10.0
+2,3,classificacao,RF 2 estágios,subtriagem_taxa,0.041666666666666664
+2,3,classificacao,RF 2 estágios,sobretriagem_n,9.0
+2,3,classificacao,RF 2 estágios,sobretriagem_taxa,0.0375
+2,3,classificacao,MLP direta,acuracia,0.9208333333333333
+2,3,classificacao,MLP direta,precision_1,0.9459459459459459
+2,3,classificacao,MLP direta,precision_2,0.9402985074626866
+2,3,classificacao,MLP direta,precision_3,0.9032258064516129
+2,3,classificacao,MLP direta,precision_4,0.5714285714285714
+2,3,classificacao,MLP direta,recall_1,0.9210526315789473
+2,3,classificacao,MLP direta,recall_2,0.9473684210526315
+2,3,classificacao,MLP direta,recall_3,0.875
+2,3,classificacao,MLP direta,recall_4,0.8
+2,3,classificacao,MLP direta,f1_1,0.9333333333333333
+2,3,classificacao,MLP direta,f1_2,0.9438202247191011
+2,3,classificacao,MLP direta,f1_3,0.8888888888888888
+2,3,classificacao,MLP direta,f1_4,0.6666666666666666
+2,3,classificacao,MLP direta,precision_macro,0.8402247078222043
+2,3,classificacao,MLP direta,recall_macro,0.8858552631578946
+2,3,classificacao,MLP direta,f1_macro,0.8581772784019974
+2,3,classificacao,MLP direta,subtriagem_n,11.0
+2,3,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+2,3,classificacao,MLP direta,sobretriagem_n,8.0
+2,3,classificacao,MLP direta,sobretriagem_taxa,0.03333333333333333
+2,3,classificacao,MLP 2 estágios,acuracia,0.9041666666666667
+2,3,classificacao,MLP 2 estágios,precision_1,0.825
+2,3,classificacao,MLP 2 estágios,precision_2,0.9375
+2,3,classificacao,MLP 2 estágios,precision_3,0.8840579710144928
+2,3,classificacao,MLP 2 estágios,precision_4,1.0
+2,3,classificacao,MLP 2 estágios,recall_1,0.868421052631579
+2,3,classificacao,MLP 2 estágios,recall_2,0.9022556390977443
+2,3,classificacao,MLP 2 estágios,recall_3,0.953125
+2,3,classificacao,MLP 2 estágios,recall_4,0.6
+2,3,classificacao,MLP 2 estágios,f1_1,0.8461538461538461
+2,3,classificacao,MLP 2 estágios,f1_2,0.9195402298850575
+2,3,classificacao,MLP 2 estágios,f1_3,0.9172932330827067
+2,3,classificacao,MLP 2 estágios,f1_4,0.75
+2,3,classificacao,MLP 2 estágios,precision_macro,0.9116394927536232
+2,3,classificacao,MLP 2 estágios,recall_macro,0.8309504229323309
+2,3,classificacao,MLP 2 estágios,f1_macro,0.8582468272804026
+2,3,classificacao,MLP 2 estágios,subtriagem_n,11.0
+2,3,classificacao,MLP 2 estágios,subtriagem_taxa,0.04583333333333333
+2,3,classificacao,MLP 2 estágios,sobretriagem_n,12.0
+2,3,classificacao,MLP 2 estágios,sobretriagem_taxa,0.05
+2,4,regressao,RF,rmse,2.902231115321305
+2,4,regressao,RF,mae,1.8326364297555444
+2,4,regressao,RF,r2,0.9711423022999941
+2,4,regressao,MLP,rmse,2.0533522563012307
+2,4,regressao,MLP,mae,1.385189933532871
+2,4,regressao,MLP,r2,0.9855547650069375
+2,4,classificacao,RF direta,acuracia,0.9583333333333334
+2,4,classificacao,RF direta,precision_1,0.9722222222222222
+2,4,classificacao,RF direta,precision_2,0.9629629629629629
+2,4,classificacao,RF direta,precision_3,0.953125
+2,4,classificacao,RF direta,precision_4,0.8
+2,4,classificacao,RF direta,recall_1,0.9459459459459459
+2,4,classificacao,RF direta,recall_2,0.9774436090225563
+2,4,classificacao,RF direta,recall_3,0.9384615384615385
+2,4,classificacao,RF direta,recall_4,0.8
+2,4,classificacao,RF direta,f1_1,0.958904109589041
+2,4,classificacao,RF direta,f1_2,0.9701492537313433
+2,4,classificacao,RF direta,f1_3,0.9457364341085271
+2,4,classificacao,RF direta,f1_4,0.8
+2,4,classificacao,RF direta,precision_macro,0.9220775462962962
+2,4,classificacao,RF direta,recall_macro,0.9154627733575103
+2,4,classificacao,RF direta,f1_macro,0.918697449357228
+2,4,classificacao,RF direta,subtriagem_n,5.0
+2,4,classificacao,RF direta,subtriagem_taxa,0.020833333333333332
+2,4,classificacao,RF direta,sobretriagem_n,5.0
+2,4,classificacao,RF direta,sobretriagem_taxa,0.020833333333333332
+2,4,classificacao,RF 2 estágios,acuracia,0.925
+2,4,classificacao,RF 2 estágios,precision_1,0.9705882352941176
+2,4,classificacao,RF 2 estágios,precision_2,0.927007299270073
+2,4,classificacao,RF 2 estágios,precision_3,0.8939393939393939
+2,4,classificacao,RF 2 estágios,precision_4,1.0
+2,4,classificacao,RF 2 estágios,recall_1,0.8918918918918919
+2,4,classificacao,RF 2 estágios,recall_2,0.9548872180451128
+2,4,classificacao,RF 2 estágios,recall_3,0.9076923076923077
+2,4,classificacao,RF 2 estágios,recall_4,0.6
+2,4,classificacao,RF 2 estágios,f1_1,0.9295774647887324
+2,4,classificacao,RF 2 estágios,f1_2,0.9407407407407408
+2,4,classificacao,RF 2 estágios,f1_3,0.9007633587786259
+2,4,classificacao,RF 2 estágios,f1_4,0.75
+2,4,classificacao,RF 2 estágios,precision_macro,0.9478837321258962
+2,4,classificacao,RF 2 estágios,recall_macro,0.8386178544073281
+2,4,classificacao,RF 2 estágios,f1_macro,0.8802703910770248
+2,4,classificacao,RF 2 estágios,subtriagem_n,9.0
+2,4,classificacao,RF 2 estágios,subtriagem_taxa,0.0375
+2,4,classificacao,RF 2 estágios,sobretriagem_n,9.0
+2,4,classificacao,RF 2 estágios,sobretriagem_taxa,0.0375
+2,4,classificacao,MLP direta,acuracia,0.9458333333333333
+2,4,classificacao,MLP direta,precision_1,0.9411764705882353
+2,4,classificacao,MLP direta,precision_2,0.9347826086956522
+2,4,classificacao,MLP direta,precision_3,0.9682539682539683
+2,4,classificacao,MLP direta,precision_4,1.0
+2,4,classificacao,MLP direta,recall_1,0.8648648648648649
+2,4,classificacao,MLP direta,recall_2,0.9699248120300752
+2,4,classificacao,MLP direta,recall_3,0.9384615384615385
+2,4,classificacao,MLP direta,recall_4,1.0
+2,4,classificacao,MLP direta,f1_1,0.9014084507042254
+2,4,classificacao,MLP direta,f1_2,0.9520295202952029
+2,4,classificacao,MLP direta,f1_3,0.953125
+2,4,classificacao,MLP direta,f1_4,1.0
+2,4,classificacao,MLP direta,precision_macro,0.9610532618844639
+2,4,classificacao,MLP direta,recall_macro,0.9433128038391196
+2,4,classificacao,MLP direta,f1_macro,0.9516407427498571
+2,4,classificacao,MLP direta,subtriagem_n,7.0
+2,4,classificacao,MLP direta,subtriagem_taxa,0.029166666666666667
+2,4,classificacao,MLP direta,sobretriagem_n,6.0
+2,4,classificacao,MLP direta,sobretriagem_taxa,0.025
+2,4,classificacao,MLP 2 estágios,acuracia,0.9291666666666667
+2,4,classificacao,MLP 2 estágios,precision_1,0.9142857142857143
+2,4,classificacao,MLP 2 estágios,precision_2,0.9402985074626866
+2,4,classificacao,MLP 2 estágios,precision_3,0.9242424242424242
+2,4,classificacao,MLP 2 estágios,precision_4,0.8
+2,4,classificacao,MLP 2 estágios,recall_1,0.8648648648648649
+2,4,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+2,4,classificacao,MLP 2 estágios,recall_3,0.9384615384615385
+2,4,classificacao,MLP 2 estágios,recall_4,0.8
+2,4,classificacao,MLP 2 estágios,f1_1,0.8888888888888888
+2,4,classificacao,MLP 2 estágios,f1_2,0.9438202247191011
+2,4,classificacao,MLP 2 estágios,f1_3,0.9312977099236641
+2,4,classificacao,MLP 2 estágios,f1_4,0.8
+2,4,classificacao,MLP 2 estágios,precision_macro,0.8947066614977064
+2,4,classificacao,MLP 2 estágios,recall_macro,0.8876737060947586
+2,4,classificacao,MLP 2 estágios,f1_macro,0.8910017058829136
+2,4,classificacao,MLP 2 estágios,subtriagem_n,10.0
+2,4,classificacao,MLP 2 estágios,subtriagem_taxa,0.041666666666666664
+2,4,classificacao,MLP 2 estágios,sobretriagem_n,7.0
+2,4,classificacao,MLP 2 estágios,sobretriagem_taxa,0.029166666666666667
+2,5,regressao,RF,rmse,2.89340218847019
+2,5,regressao,RF,mae,1.9770414374708352
+2,5,regressao,RF,r2,0.9689022773108626
+2,5,regressao,MLP,rmse,2.3186812701348947
+2,5,regressao,MLP,mae,1.6502022419685252
+2,5,regressao,MLP,r2,0.9800293094148305
+2,5,classificacao,RF direta,acuracia,0.9208333333333333
+2,5,classificacao,RF direta,precision_1,1.0
+2,5,classificacao,RF direta,precision_2,0.9264705882352942
+2,5,classificacao,RF direta,precision_3,0.8656716417910447
+2,5,classificacao,RF direta,precision_4,1.0
+2,5,classificacao,RF direta,recall_1,0.918918918918919
+2,5,classificacao,RF direta,recall_2,0.9473684210526315
+2,5,classificacao,RF direta,recall_3,0.8923076923076924
+2,5,classificacao,RF direta,recall_4,0.6
+2,5,classificacao,RF direta,f1_1,0.9577464788732394
+2,5,classificacao,RF direta,f1_2,0.9368029739776952
+2,5,classificacao,RF direta,f1_3,0.8787878787878788
+2,5,classificacao,RF direta,f1_4,0.75
+2,5,classificacao,RF direta,precision_macro,0.9480355575065847
+2,5,classificacao,RF direta,recall_macro,0.8396487580698108
+2,5,classificacao,RF direta,f1_macro,0.8808343329097034
+2,5,classificacao,RF direta,subtriagem_n,10.0
+2,5,classificacao,RF direta,subtriagem_taxa,0.041666666666666664
+2,5,classificacao,RF direta,sobretriagem_n,9.0
+2,5,classificacao,RF direta,sobretriagem_taxa,0.0375
+2,5,classificacao,RF 2 estágios,acuracia,0.9041666666666667
+2,5,classificacao,RF 2 estágios,precision_1,1.0
+2,5,classificacao,RF 2 estágios,precision_2,0.917910447761194
+2,5,classificacao,RF 2 estágios,precision_3,0.8356164383561644
+2,5,classificacao,RF 2 estágios,precision_4,1.0
+2,5,classificacao,RF 2 estágios,recall_1,0.8108108108108109
+2,5,classificacao,RF 2 estágios,recall_2,0.924812030075188
+2,5,classificacao,RF 2 estágios,recall_3,0.9384615384615385
+2,5,classificacao,RF 2 estágios,recall_4,0.6
+2,5,classificacao,RF 2 estágios,f1_1,0.8955223880597015
+2,5,classificacao,RF 2 estágios,f1_2,0.9213483146067416
+2,5,classificacao,RF 2 estágios,f1_3,0.8840579710144928
+2,5,classificacao,RF 2 estágios,f1_4,0.75
+2,5,classificacao,RF 2 estágios,precision_macro,0.9383817215293395
+2,5,classificacao,RF 2 estágios,recall_macro,0.8185210948368843
+2,5,classificacao,RF 2 estágios,f1_macro,0.8627321684202339
+2,5,classificacao,RF 2 estágios,subtriagem_n,17.0
+2,5,classificacao,RF 2 estágios,subtriagem_taxa,0.07083333333333333
+2,5,classificacao,RF 2 estágios,sobretriagem_n,6.0
+2,5,classificacao,RF 2 estágios,sobretriagem_taxa,0.025
+2,5,classificacao,MLP direta,acuracia,0.8791666666666667
+2,5,classificacao,MLP direta,precision_1,0.8928571428571429
+2,5,classificacao,MLP direta,precision_2,0.8785714285714286
+2,5,classificacao,MLP direta,precision_3,0.8695652173913043
+2,5,classificacao,MLP direta,precision_4,1.0
+2,5,classificacao,MLP direta,recall_1,0.6756756756756757
+2,5,classificacao,MLP direta,recall_2,0.924812030075188
+2,5,classificacao,MLP direta,recall_3,0.9230769230769231
+2,5,classificacao,MLP direta,recall_4,0.6
+2,5,classificacao,MLP direta,f1_1,0.7692307692307693
+2,5,classificacao,MLP direta,f1_2,0.9010989010989011
+2,5,classificacao,MLP direta,f1_3,0.8955223880597015
+2,5,classificacao,MLP direta,f1_4,0.75
+2,5,classificacao,MLP direta,precision_macro,0.9102484472049689
+2,5,classificacao,MLP direta,recall_macro,0.7808911572069467
+2,5,classificacao,MLP direta,f1_macro,0.828963014597343
+2,5,classificacao,MLP direta,subtriagem_n,19.0
+2,5,classificacao,MLP direta,subtriagem_taxa,0.07916666666666666
+2,5,classificacao,MLP direta,sobretriagem_n,10.0
+2,5,classificacao,MLP direta,sobretriagem_taxa,0.041666666666666664
+2,5,classificacao,MLP 2 estágios,acuracia,0.9375
+2,5,classificacao,MLP 2 estágios,precision_1,0.8333333333333334
+2,5,classificacao,MLP 2 estágios,precision_2,0.968503937007874
+2,5,classificacao,MLP 2 estágios,precision_3,0.9538461538461539
+2,5,classificacao,MLP 2 estágios,precision_4,0.8333333333333334
+2,5,classificacao,MLP 2 estágios,recall_1,0.9459459459459459
+2,5,classificacao,MLP 2 estágios,recall_2,0.924812030075188
+2,5,classificacao,MLP 2 estágios,recall_3,0.9538461538461539
+2,5,classificacao,MLP 2 estágios,recall_4,1.0
+2,5,classificacao,MLP 2 estágios,f1_1,0.8860759493670886
+2,5,classificacao,MLP 2 estágios,f1_2,0.9461538461538461
+2,5,classificacao,MLP 2 estágios,f1_3,0.9538461538461539
+2,5,classificacao,MLP 2 estágios,f1_4,0.9090909090909091
+2,5,classificacao,MLP 2 estágios,precision_macro,0.8972541893801737
+2,5,classificacao,MLP 2 estágios,recall_macro,0.956151032466822
+2,5,classificacao,MLP 2 estágios,f1_macro,0.9237917146144995
+2,5,classificacao,MLP 2 estágios,subtriagem_n,6.0
+2,5,classificacao,MLP 2 estágios,subtriagem_taxa,0.025
+2,5,classificacao,MLP 2 estágios,sobretriagem_n,9.0
+2,5,classificacao,MLP 2 estágios,sobretriagem_taxa,0.0375
+3,1,regressao,RF,rmse,2.421611122584924
+3,1,regressao,RF,mae,1.60808382838055
+3,1,regressao,RF,r2,0.9787473022657671
+3,1,regressao,MLP,rmse,2.0750348417759077
+3,1,regressao,MLP,mae,1.5295378438555243
+3,1,regressao,MLP,r2,0.9843952776146625
+3,1,classificacao,RF direta,acuracia,0.9333333333333333
+3,1,classificacao,RF direta,precision_1,0.972972972972973
+3,1,classificacao,RF direta,precision_2,0.9407407407407408
+3,1,classificacao,RF direta,precision_3,0.8923076923076924
+3,1,classificacao,RF direta,precision_4,1.0
+3,1,classificacao,RF direta,recall_1,0.972972972972973
+3,1,classificacao,RF direta,recall_2,0.9477611940298507
+3,1,classificacao,RF direta,recall_3,0.8923076923076924
+3,1,classificacao,RF direta,recall_4,0.75
+3,1,classificacao,RF direta,f1_1,0.972972972972973
+3,1,classificacao,RF direta,f1_2,0.9442379182156134
+3,1,classificacao,RF direta,f1_3,0.8923076923076924
+3,1,classificacao,RF direta,f1_4,0.8571428571428571
+3,1,classificacao,RF direta,precision_macro,0.9515053515053515
+3,1,classificacao,RF direta,recall_macro,0.890760464827629
+3,1,classificacao,RF direta,f1_macro,0.916665360159784
+3,1,classificacao,RF direta,subtriagem_n,7.0
+3,1,classificacao,RF direta,subtriagem_taxa,0.029166666666666667
+3,1,classificacao,RF direta,sobretriagem_n,9.0
+3,1,classificacao,RF direta,sobretriagem_taxa,0.0375
+3,1,classificacao,RF 2 estágios,acuracia,0.9333333333333333
+3,1,classificacao,RF 2 estágios,precision_1,1.0
+3,1,classificacao,RF 2 estágios,precision_2,0.9219858156028369
+3,1,classificacao,RF 2 estágios,precision_3,0.9180327868852459
+3,1,classificacao,RF 2 estágios,precision_4,1.0
+3,1,classificacao,RF 2 estágios,recall_1,0.9459459459459459
+3,1,classificacao,RF 2 estágios,recall_2,0.9701492537313433
+3,1,classificacao,RF 2 estágios,recall_3,0.8615384615384616
+3,1,classificacao,RF 2 estágios,recall_4,0.75
+3,1,classificacao,RF 2 estágios,f1_1,0.9722222222222222
+3,1,classificacao,RF 2 estágios,f1_2,0.9454545454545454
+3,1,classificacao,RF 2 estágios,f1_3,0.8888888888888888
+3,1,classificacao,RF 2 estágios,f1_4,0.8571428571428571
+3,1,classificacao,RF 2 estágios,precision_macro,0.9600046506220207
+3,1,classificacao,RF 2 estágios,recall_macro,0.8819084153039377
+3,1,classificacao,RF 2 estágios,f1_macro,0.9159271284271284
+3,1,classificacao,RF 2 estágios,subtriagem_n,6.0
+3,1,classificacao,RF 2 estágios,subtriagem_taxa,0.025
+3,1,classificacao,RF 2 estágios,sobretriagem_n,10.0
+3,1,classificacao,RF 2 estágios,sobretriagem_taxa,0.041666666666666664
+3,1,classificacao,MLP direta,acuracia,0.9125
+3,1,classificacao,MLP direta,precision_1,0.9411764705882353
+3,1,classificacao,MLP direta,precision_2,0.9130434782608695
+3,1,classificacao,MLP direta,precision_3,0.8923076923076924
+3,1,classificacao,MLP direta,precision_4,1.0
+3,1,classificacao,MLP direta,recall_1,0.8648648648648649
+3,1,classificacao,MLP direta,recall_2,0.9402985074626866
+3,1,classificacao,MLP direta,recall_3,0.8923076923076924
+3,1,classificacao,MLP direta,recall_4,0.75
+3,1,classificacao,MLP direta,f1_1,0.9014084507042254
+3,1,classificacao,MLP direta,f1_2,0.9264705882352942
+3,1,classificacao,MLP direta,f1_3,0.8923076923076924
+3,1,classificacao,MLP direta,f1_4,0.8571428571428571
+3,1,classificacao,MLP direta,precision_macro,0.9366319102891992
+3,1,classificacao,MLP direta,recall_macro,0.861867766158811
+3,1,classificacao,MLP direta,f1_macro,0.8943323970975172
+3,1,classificacao,MLP direta,subtriagem_n,11.0
+3,1,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+3,1,classificacao,MLP direta,sobretriagem_n,10.0
+3,1,classificacao,MLP direta,sobretriagem_taxa,0.041666666666666664
+3,1,classificacao,MLP 2 estágios,acuracia,0.9333333333333333
+3,1,classificacao,MLP 2 estágios,precision_1,0.8888888888888888
+3,1,classificacao,MLP 2 estágios,precision_2,0.946969696969697
+3,1,classificacao,MLP 2 estágios,precision_3,0.9264705882352942
+3,1,classificacao,MLP 2 estágios,precision_4,1.0
+3,1,classificacao,MLP 2 estágios,recall_1,0.8648648648648649
+3,1,classificacao,MLP 2 estágios,recall_2,0.9328358208955224
+3,1,classificacao,MLP 2 estágios,recall_3,0.9692307692307692
+3,1,classificacao,MLP 2 estágios,recall_4,1.0
+3,1,classificacao,MLP 2 estágios,f1_1,0.8767123287671232
+3,1,classificacao,MLP 2 estágios,f1_2,0.9398496240601504
+3,1,classificacao,MLP 2 estágios,f1_3,0.9473684210526315
+3,1,classificacao,MLP 2 estágios,f1_4,1.0
+3,1,classificacao,MLP 2 estágios,precision_macro,0.94058229352347
+3,1,classificacao,MLP 2 estágios,recall_macro,0.9417328637477892
+3,1,classificacao,MLP 2 estágios,f1_macro,0.9409825934699763
+3,1,classificacao,MLP 2 estágios,subtriagem_n,10.0
+3,1,classificacao,MLP 2 estágios,subtriagem_taxa,0.041666666666666664
+3,1,classificacao,MLP 2 estágios,sobretriagem_n,6.0
+3,1,classificacao,MLP 2 estágios,sobretriagem_taxa,0.025
+3,2,regressao,RF,rmse,2.699335787452763
+3,2,regressao,RF,mae,1.7669064618833181
+3,2,regressao,RF,r2,0.9720471313170534
+3,2,regressao,MLP,rmse,2.112410491803841
+3,2,regressao,MLP,mae,1.6135384416733463
+3,2,regressao,MLP,r2,0.9828813626827061
+3,2,classificacao,RF direta,acuracia,0.8958333333333334
+3,2,classificacao,RF direta,precision_1,0.967741935483871
+3,2,classificacao,RF direta,precision_2,0.8827586206896552
+3,2,classificacao,RF direta,precision_3,0.8870967741935484
+3,2,classificacao,RF direta,precision_4,1.0
+3,2,classificacao,RF direta,recall_1,0.7894736842105263
+3,2,classificacao,RF direta,recall_2,0.9624060150375939
+3,2,classificacao,RF direta,recall_3,0.859375
+3,2,classificacao,RF direta,recall_4,0.4
+3,2,classificacao,RF direta,f1_1,0.8695652173913043
+3,2,classificacao,RF direta,f1_2,0.920863309352518
+3,2,classificacao,RF direta,f1_3,0.873015873015873
+3,2,classificacao,RF direta,f1_4,0.5714285714285714
+3,2,classificacao,RF direta,precision_macro,0.9343993325917687
+3,2,classificacao,RF direta,recall_macro,0.7528136748120301
+3,2,classificacao,RF direta,f1_macro,0.8087182427970667
+3,2,classificacao,RF direta,subtriagem_n,12.0
+3,2,classificacao,RF direta,subtriagem_taxa,0.05
+3,2,classificacao,RF direta,sobretriagem_n,13.0
+3,2,classificacao,RF direta,sobretriagem_taxa,0.05416666666666667
+3,2,classificacao,RF 2 estágios,acuracia,0.9041666666666667
+3,2,classificacao,RF 2 estágios,precision_1,1.0
+3,2,classificacao,RF 2 estágios,precision_2,0.9071428571428571
+3,2,classificacao,RF 2 estágios,precision_3,0.8529411764705882
+3,2,classificacao,RF 2 estágios,precision_4,1.0
+3,2,classificacao,RF 2 estágios,recall_1,0.8157894736842105
+3,2,classificacao,RF 2 estágios,recall_2,0.9548872180451128
+3,2,classificacao,RF 2 estágios,recall_3,0.90625
+3,2,classificacao,RF 2 estágios,recall_4,0.2
+3,2,classificacao,RF 2 estágios,f1_1,0.8985507246376812
+3,2,classificacao,RF 2 estágios,f1_2,0.9304029304029304
+3,2,classificacao,RF 2 estágios,f1_3,0.8787878787878788
+3,2,classificacao,RF 2 estágios,f1_4,0.3333333333333333
+3,2,classificacao,RF 2 estágios,precision_macro,0.9400210084033613
+3,2,classificacao,RF 2 estágios,recall_macro,0.7192316729323309
+3,2,classificacao,RF 2 estágios,f1_macro,0.7602687167904559
+3,2,classificacao,RF 2 estágios,subtriagem_n,13.0
+3,2,classificacao,RF 2 estágios,subtriagem_taxa,0.05416666666666667
+3,2,classificacao,RF 2 estágios,sobretriagem_n,10.0
+3,2,classificacao,RF 2 estágios,sobretriagem_taxa,0.041666666666666664
+3,2,classificacao,MLP direta,acuracia,0.8875
+3,2,classificacao,MLP direta,precision_1,0.8484848484848485
+3,2,classificacao,MLP direta,precision_2,0.8978102189781022
+3,2,classificacao,MLP direta,precision_3,0.8823529411764706
+3,2,classificacao,MLP direta,precision_4,1.0
+3,2,classificacao,MLP direta,recall_1,0.7368421052631579
+3,2,classificacao,MLP direta,recall_2,0.924812030075188
+3,2,classificacao,MLP direta,recall_3,0.9375
+3,2,classificacao,MLP direta,recall_4,0.4
+3,2,classificacao,MLP direta,f1_1,0.7887323943661971
+3,2,classificacao,MLP direta,f1_2,0.9111111111111111
+3,2,classificacao,MLP direta,f1_3,0.9090909090909091
+3,2,classificacao,MLP direta,f1_4,0.5714285714285714
+3,2,classificacao,MLP direta,precision_macro,0.9071620021598553
+3,2,classificacao,MLP direta,recall_macro,0.7497885338345864
+3,2,classificacao,MLP direta,f1_macro,0.7950907464991972
+3,2,classificacao,MLP direta,subtriagem_n,15.0
+3,2,classificacao,MLP direta,subtriagem_taxa,0.0625
+3,2,classificacao,MLP direta,sobretriagem_n,12.0
+3,2,classificacao,MLP direta,sobretriagem_taxa,0.05
+3,2,classificacao,MLP 2 estágios,acuracia,0.9166666666666666
+3,2,classificacao,MLP 2 estágios,precision_1,0.825
+3,2,classificacao,MLP 2 estágios,precision_2,0.9185185185185185
+3,2,classificacao,MLP 2 estágios,precision_3,0.9666666666666667
+3,2,classificacao,MLP 2 estágios,precision_4,1.0
+3,2,classificacao,MLP 2 estágios,recall_1,0.868421052631579
+3,2,classificacao,MLP 2 estágios,recall_2,0.9323308270676691
+3,2,classificacao,MLP 2 estágios,recall_3,0.90625
+3,2,classificacao,MLP 2 estágios,recall_4,1.0
+3,2,classificacao,MLP 2 estágios,f1_1,0.8461538461538461
+3,2,classificacao,MLP 2 estágios,f1_2,0.9253731343283582
+3,2,classificacao,MLP 2 estágios,f1_3,0.9354838709677419
+3,2,classificacao,MLP 2 estágios,f1_4,1.0
+3,2,classificacao,MLP 2 estágios,precision_macro,0.9275462962962963
+3,2,classificacao,MLP 2 estágios,recall_macro,0.926750469924812
+3,2,classificacao,MLP 2 estágios,f1_macro,0.9267527128624866
+3,2,classificacao,MLP 2 estágios,subtriagem_n,7.0
+3,2,classificacao,MLP 2 estágios,subtriagem_taxa,0.029166666666666667
+3,2,classificacao,MLP 2 estágios,sobretriagem_n,13.0
+3,2,classificacao,MLP 2 estágios,sobretriagem_taxa,0.05416666666666667
+3,3,regressao,RF,rmse,2.92746102883999
+3,3,regressao,RF,mae,1.7992804591944418
+3,3,regressao,RF,r2,0.9717037184437053
+3,3,regressao,MLP,rmse,2.067415620373977
+3,3,regressao,MLP,mae,1.4794724107206827
+3,3,regressao,MLP,r2,0.9858875404529241
+3,3,classificacao,RF direta,acuracia,0.9208333333333333
+3,3,classificacao,RF direta,precision_1,1.0
+3,3,classificacao,RF direta,precision_2,0.9328358208955224
+3,3,classificacao,RF direta,precision_3,0.8615384615384616
+3,3,classificacao,RF direta,precision_4,0.8
+3,3,classificacao,RF direta,recall_1,0.9473684210526315
+3,3,classificacao,RF direta,recall_2,0.9398496240601504
+3,3,classificacao,RF direta,recall_3,0.875
+3,3,classificacao,RF direta,recall_4,0.8
+3,3,classificacao,RF direta,f1_1,0.972972972972973
+3,3,classificacao,RF direta,f1_2,0.9363295880149812
+3,3,classificacao,RF direta,f1_3,0.8682170542635659
+3,3,classificacao,RF direta,f1_4,0.8
+3,3,classificacao,RF direta,precision_macro,0.898593570608496
+3,3,classificacao,RF direta,recall_macro,0.8905545112781954
+3,3,classificacao,RF direta,f1_macro,0.8943799038128799
+3,3,classificacao,RF direta,subtriagem_n,11.0
+3,3,classificacao,RF direta,subtriagem_taxa,0.04583333333333333
+3,3,classificacao,RF direta,sobretriagem_n,8.0
+3,3,classificacao,RF direta,sobretriagem_taxa,0.03333333333333333
+3,3,classificacao,RF 2 estágios,acuracia,0.9208333333333333
+3,3,classificacao,RF 2 estágios,precision_1,1.0
+3,3,classificacao,RF 2 estágios,precision_2,0.9259259259259259
+3,3,classificacao,RF 2 estágios,precision_3,0.875
+3,3,classificacao,RF 2 estágios,precision_4,0.8333333333333334
+3,3,classificacao,RF 2 estágios,recall_1,0.9210526315789473
+3,3,classificacao,RF 2 estágios,recall_2,0.9398496240601504
+3,3,classificacao,RF 2 estágios,recall_3,0.875
+3,3,classificacao,RF 2 estágios,recall_4,1.0
+3,3,classificacao,RF 2 estágios,f1_1,0.958904109589041
+3,3,classificacao,RF 2 estágios,f1_2,0.9328358208955224
+3,3,classificacao,RF 2 estágios,f1_3,0.875
+3,3,classificacao,RF 2 estágios,f1_4,0.9090909090909091
+3,3,classificacao,RF 2 estágios,precision_macro,0.9085648148148149
+3,3,classificacao,RF 2 estágios,recall_macro,0.9339755639097744
+3,3,classificacao,RF 2 estágios,f1_macro,0.9189577098938682
+3,3,classificacao,RF 2 estágios,subtriagem_n,12.0
+3,3,classificacao,RF 2 estágios,subtriagem_taxa,0.05
+3,3,classificacao,RF 2 estágios,sobretriagem_n,7.0
+3,3,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+3,3,classificacao,MLP direta,acuracia,0.9041666666666667
+3,3,classificacao,MLP direta,precision_1,0.868421052631579
+3,3,classificacao,MLP direta,precision_2,0.917910447761194
+3,3,classificacao,MLP direta,precision_3,0.9180327868852459
+3,3,classificacao,MLP direta,precision_4,0.7142857142857143
+3,3,classificacao,MLP direta,recall_1,0.868421052631579
+3,3,classificacao,MLP direta,recall_2,0.924812030075188
+3,3,classificacao,MLP direta,recall_3,0.875
+3,3,classificacao,MLP direta,recall_4,1.0
+3,3,classificacao,MLP direta,f1_1,0.868421052631579
+3,3,classificacao,MLP direta,f1_2,0.9213483146067416
+3,3,classificacao,MLP direta,f1_3,0.896
+3,3,classificacao,MLP direta,f1_4,0.8333333333333334
+3,3,classificacao,MLP direta,precision_macro,0.8546625003909334
+3,3,classificacao,MLP direta,recall_macro,0.9170582706766918
+3,3,classificacao,MLP direta,f1_macro,0.8797756751429135
+3,3,classificacao,MLP direta,subtriagem_n,12.0
+3,3,classificacao,MLP direta,subtriagem_taxa,0.05
+3,3,classificacao,MLP direta,sobretriagem_n,11.0
+3,3,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+3,3,classificacao,MLP 2 estágios,acuracia,0.9416666666666667
+3,3,classificacao,MLP 2 estágios,precision_1,0.8974358974358975
+3,3,classificacao,MLP 2 estágios,precision_2,0.9541984732824428
+3,3,classificacao,MLP 2 estágios,precision_3,0.9384615384615385
+3,3,classificacao,MLP 2 estágios,precision_4,1.0
+3,3,classificacao,MLP 2 estágios,recall_1,0.9210526315789473
+3,3,classificacao,MLP 2 estágios,recall_2,0.9398496240601504
+3,3,classificacao,MLP 2 estágios,recall_3,0.953125
+3,3,classificacao,MLP 2 estágios,recall_4,1.0
+3,3,classificacao,MLP 2 estágios,f1_1,0.9090909090909091
+3,3,classificacao,MLP 2 estágios,f1_2,0.946969696969697
+3,3,classificacao,MLP 2 estágios,f1_3,0.9457364341085271
+3,3,classificacao,MLP 2 estágios,f1_4,1.0
+3,3,classificacao,MLP 2 estágios,precision_macro,0.9475239772949697
+3,3,classificacao,MLP 2 estágios,recall_macro,0.9535068139097744
+3,3,classificacao,MLP 2 estágios,f1_macro,0.9504492600422833
+3,3,classificacao,MLP 2 estágios,subtriagem_n,7.0
+3,3,classificacao,MLP 2 estágios,subtriagem_taxa,0.029166666666666667
+3,3,classificacao,MLP 2 estágios,sobretriagem_n,7.0
+3,3,classificacao,MLP 2 estágios,sobretriagem_taxa,0.029166666666666667
+3,4,regressao,RF,rmse,3.099445711536599
+3,4,regressao,RF,mae,1.9937673103458293
+3,4,regressao,RF,r2,0.9646043285074462
+3,4,regressao,MLP,rmse,2.0176897393482855
+3,4,regressao,MLP,mae,1.4583279270739107
+3,4,regressao,MLP,r2,0.9850000138179689
+3,4,classificacao,RF direta,acuracia,0.9375
+3,4,classificacao,RF direta,precision_1,0.9714285714285714
+3,4,classificacao,RF direta,precision_2,0.9541984732824428
+3,4,classificacao,RF direta,precision_3,0.8857142857142857
+3,4,classificacao,RF direta,precision_4,1.0
+3,4,classificacao,RF direta,recall_1,0.918918918918919
+3,4,classificacao,RF direta,recall_2,0.9398496240601504
+3,4,classificacao,RF direta,recall_3,0.9538461538461539
+3,4,classificacao,RF direta,recall_4,0.8
+3,4,classificacao,RF direta,f1_1,0.9444444444444444
+3,4,classificacao,RF direta,f1_2,0.946969696969697
+3,4,classificacao,RF direta,f1_3,0.9185185185185185
+3,4,classificacao,RF direta,f1_4,0.8888888888888888
+3,4,classificacao,RF direta,precision_macro,0.952835332606325
+3,4,classificacao,RF direta,recall_macro,0.9031536742063058
+3,4,classificacao,RF direta,f1_macro,0.9247053872053872
+3,4,classificacao,RF direta,subtriagem_n,10.0
+3,4,classificacao,RF direta,subtriagem_taxa,0.041666666666666664
+3,4,classificacao,RF direta,sobretriagem_n,5.0
+3,4,classificacao,RF direta,sobretriagem_taxa,0.020833333333333332
+3,4,classificacao,RF 2 estágios,acuracia,0.9291666666666667
+3,4,classificacao,RF 2 estágios,precision_1,1.0
+3,4,classificacao,RF 2 estágios,precision_2,0.946969696969697
+3,4,classificacao,RF 2 estágios,precision_3,0.8571428571428571
+3,4,classificacao,RF 2 estágios,precision_4,1.0
+3,4,classificacao,RF 2 estágios,recall_1,0.9459459459459459
+3,4,classificacao,RF 2 estágios,recall_2,0.9398496240601504
+3,4,classificacao,RF 2 estágios,recall_3,0.9230769230769231
+3,4,classificacao,RF 2 estágios,recall_4,0.6
+3,4,classificacao,RF 2 estágios,f1_1,0.9722222222222222
+3,4,classificacao,RF 2 estágios,f1_2,0.9433962264150944
+3,4,classificacao,RF 2 estágios,f1_3,0.8888888888888888
+3,4,classificacao,RF 2 estágios,f1_4,0.75
+3,4,classificacao,RF 2 estágios,precision_macro,0.9510281385281385
+3,4,classificacao,RF 2 estágios,recall_macro,0.852218123270755
+3,4,classificacao,RF 2 estágios,f1_macro,0.8886268343815513
+3,4,classificacao,RF 2 estágios,subtriagem_n,10.0
+3,4,classificacao,RF 2 estágios,subtriagem_taxa,0.041666666666666664
+3,4,classificacao,RF 2 estágios,sobretriagem_n,7.0
+3,4,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+3,4,classificacao,MLP direta,acuracia,0.9083333333333333
+3,4,classificacao,MLP direta,precision_1,0.8333333333333334
+3,4,classificacao,MLP direta,precision_2,0.9242424242424242
+3,4,classificacao,MLP direta,precision_3,0.9117647058823529
+3,4,classificacao,MLP direta,precision_4,1.0
+3,4,classificacao,MLP direta,recall_1,0.8108108108108109
+3,4,classificacao,MLP direta,recall_2,0.9172932330827067
+3,4,classificacao,MLP direta,recall_3,0.9538461538461539
+3,4,classificacao,MLP direta,recall_4,0.8
+3,4,classificacao,MLP direta,f1_1,0.821917808219178
+3,4,classificacao,MLP direta,f1_2,0.9207547169811321
+3,4,classificacao,MLP direta,f1_3,0.9323308270676691
+3,4,classificacao,MLP direta,f1_4,0.8888888888888888
+3,4,classificacao,MLP direta,precision_macro,0.9173351158645277
+3,4,classificacao,MLP direta,recall_macro,0.8704875494349178
+3,4,classificacao,MLP direta,f1_macro,0.8909730602892171
+3,4,classificacao,MLP direta,subtriagem_n,12.0
+3,4,classificacao,MLP direta,subtriagem_taxa,0.05
+3,4,classificacao,MLP direta,sobretriagem_n,10.0
+3,4,classificacao,MLP direta,sobretriagem_taxa,0.041666666666666664
+3,4,classificacao,MLP 2 estágios,acuracia,0.9416666666666667
+3,4,classificacao,MLP 2 estágios,precision_1,0.8780487804878049
+3,4,classificacao,MLP 2 estágios,precision_2,0.9618320610687023
+3,4,classificacao,MLP 2 estágios,precision_3,0.9384615384615385
+3,4,classificacao,MLP 2 estágios,precision_4,1.0
+3,4,classificacao,MLP 2 estágios,recall_1,0.972972972972973
+3,4,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+3,4,classificacao,MLP 2 estágios,recall_3,0.9384615384615385
+3,4,classificacao,MLP 2 estágios,recall_4,0.6
+3,4,classificacao,MLP 2 estágios,f1_1,0.9230769230769231
+3,4,classificacao,MLP 2 estágios,f1_2,0.9545454545454546
+3,4,classificacao,MLP 2 estágios,f1_3,0.9384615384615385
+3,4,classificacao,MLP 2 estágios,f1_4,0.75
+3,4,classificacao,MLP 2 estágios,precision_macro,0.9445855950045114
+3,4,classificacao,MLP 2 estágios,recall_macro,0.8647007331217859
+3,4,classificacao,MLP 2 estágios,f1_macro,0.891520979020979
+3,4,classificacao,MLP 2 estágios,subtriagem_n,3.0
+3,4,classificacao,MLP 2 estágios,subtriagem_taxa,0.0125
+3,4,classificacao,MLP 2 estágios,sobretriagem_n,11.0
+3,4,classificacao,MLP 2 estágios,sobretriagem_taxa,0.04583333333333333
+3,5,regressao,RF,rmse,2.8299652703536826
+3,5,regressao,RF,mae,1.8186420193749937
+3,5,regressao,RF,r2,0.9709517210358889
+3,5,regressao,MLP,rmse,2.410110918882673
+3,5,regressao,MLP,mae,1.621277446998991
+3,5,regressao,MLP,r2,0.978931566026047
+3,5,classificacao,RF direta,acuracia,0.9166666666666666
+3,5,classificacao,RF direta,precision_1,0.9166666666666666
+3,5,classificacao,RF direta,precision_2,0.9130434782608695
+3,5,classificacao,RF direta,precision_3,0.9193548387096774
+3,5,classificacao,RF direta,precision_4,1.0
+3,5,classificacao,RF direta,recall_1,0.8918918918918919
+3,5,classificacao,RF direta,recall_2,0.9473684210526315
+3,5,classificacao,RF direta,recall_3,0.8769230769230769
+3,5,classificacao,RF direta,recall_4,0.8
+3,5,classificacao,RF direta,f1_1,0.9041095890410958
+3,5,classificacao,RF direta,f1_2,0.9298892988929889
+3,5,classificacao,RF direta,f1_3,0.8976377952755905
+3,5,classificacao,RF direta,f1_4,0.8888888888888888
+3,5,classificacao,RF direta,precision_macro,0.9372662459093034
+3,5,classificacao,RF direta,recall_macro,0.8790458474669001
+3,5,classificacao,RF direta,f1_macro,0.9051313930246411
+3,5,classificacao,RF direta,subtriagem_n,8.0
+3,5,classificacao,RF direta,subtriagem_taxa,0.03333333333333333
+3,5,classificacao,RF direta,sobretriagem_n,12.0
+3,5,classificacao,RF direta,sobretriagem_taxa,0.05
+3,5,classificacao,RF 2 estágios,acuracia,0.9458333333333333
+3,5,classificacao,RF 2 estágios,precision_1,0.96875
+3,5,classificacao,RF 2 estágios,precision_2,0.9477611940298507
+3,5,classificacao,RF 2 estágios,precision_3,0.927536231884058
+3,5,classificacao,RF 2 estágios,precision_4,1.0
+3,5,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+3,5,classificacao,RF 2 estágios,recall_2,0.9548872180451128
+3,5,classificacao,RF 2 estágios,recall_3,0.9846153846153847
+3,5,classificacao,RF 2 estágios,recall_4,1.0
+3,5,classificacao,RF 2 estágios,f1_1,0.8985507246376812
+3,5,classificacao,RF 2 estágios,f1_2,0.951310861423221
+3,5,classificacao,RF 2 estágios,f1_3,0.9552238805970149
+3,5,classificacao,RF 2 estágios,f1_4,1.0
+3,5,classificacao,RF 2 estágios,precision_macro,0.9610118564784772
+3,5,classificacao,RF 2 estágios,recall_macro,0.9443351101245838
+3,5,classificacao,RF 2 estágios,f1_macro,0.9512713666644793
+3,5,classificacao,RF 2 estágios,subtriagem_n,11.0
+3,5,classificacao,RF 2 estágios,subtriagem_taxa,0.04583333333333333
+3,5,classificacao,RF 2 estágios,sobretriagem_n,2.0
+3,5,classificacao,RF 2 estágios,sobretriagem_taxa,0.008333333333333333
+3,5,classificacao,MLP direta,acuracia,0.9416666666666667
+3,5,classificacao,MLP direta,precision_1,0.9696969696969697
+3,5,classificacao,MLP direta,precision_2,0.9285714285714286
+3,5,classificacao,MLP direta,precision_3,0.9523809523809523
+3,5,classificacao,MLP direta,precision_4,1.0
+3,5,classificacao,MLP direta,recall_1,0.8648648648648649
+3,5,classificacao,MLP direta,recall_2,0.9774436090225563
+3,5,classificacao,MLP direta,recall_3,0.9230769230769231
+3,5,classificacao,MLP direta,recall_4,0.8
+3,5,classificacao,MLP direta,f1_1,0.9142857142857143
+3,5,classificacao,MLP direta,f1_2,0.9523809523809523
+3,5,classificacao,MLP direta,f1_3,0.9375
+3,5,classificacao,MLP direta,f1_4,0.8888888888888888
+3,5,classificacao,MLP direta,precision_macro,0.9626623376623377
+3,5,classificacao,MLP direta,recall_macro,0.891346349241086
+3,5,classificacao,MLP direta,f1_macro,0.9232638888888889
+3,5,classificacao,MLP direta,subtriagem_n,7.0
+3,5,classificacao,MLP direta,subtriagem_taxa,0.029166666666666667
+3,5,classificacao,MLP direta,sobretriagem_n,7.0
+3,5,classificacao,MLP direta,sobretriagem_taxa,0.029166666666666667
+3,5,classificacao,MLP 2 estágios,acuracia,0.9333333333333333
+3,5,classificacao,MLP 2 estágios,precision_1,0.8095238095238095
+3,5,classificacao,MLP 2 estágios,precision_2,0.9534883720930233
+3,5,classificacao,MLP 2 estágios,precision_3,0.96875
+3,5,classificacao,MLP 2 estágios,precision_4,1.0
+3,5,classificacao,MLP 2 estágios,recall_1,0.918918918918919
+3,5,classificacao,MLP 2 estágios,recall_2,0.924812030075188
+3,5,classificacao,MLP 2 estágios,recall_3,0.9538461538461539
+3,5,classificacao,MLP 2 estágios,recall_4,1.0
+3,5,classificacao,MLP 2 estágios,f1_1,0.8607594936708861
+3,5,classificacao,MLP 2 estágios,f1_2,0.9389312977099237
+3,5,classificacao,MLP 2 estágios,f1_3,0.9612403100775194
+3,5,classificacao,MLP 2 estágios,f1_4,1.0
+3,5,classificacao,MLP 2 estágios,precision_macro,0.9329405454042082
+3,5,classificacao,MLP 2 estágios,recall_macro,0.9493942757100652
+3,5,classificacao,MLP 2 estágios,f1_macro,0.9402327753645823
+3,5,classificacao,MLP 2 estágios,subtriagem_n,5.0
+3,5,classificacao,MLP 2 estágios,subtriagem_taxa,0.020833333333333332
+3,5,classificacao,MLP 2 estágios,sobretriagem_n,11.0
+3,5,classificacao,MLP 2 estágios,sobretriagem_taxa,0.04583333333333333
+4,1,regressao,RF,rmse,2.612230829443871
+4,1,regressao,RF,mae,1.661305475330558
+4,1,regressao,RF,r2,0.9743204414665684
+4,1,regressao,MLP,rmse,2.087416994284803
+4,1,regressao,MLP,mae,1.5690437680749256
+4,1,regressao,MLP,r2,0.9836023020725944
+4,1,classificacao,RF direta,acuracia,0.8875
+4,1,classificacao,RF direta,precision_1,0.9459459459459459
+4,1,classificacao,RF direta,precision_2,0.8936170212765957
+4,1,classificacao,RF direta,precision_3,0.85
+4,1,classificacao,RF direta,precision_4,0.5
+4,1,classificacao,RF direta,recall_1,0.9459459459459459
+4,1,classificacao,RF direta,recall_2,0.9402985074626866
+4,1,classificacao,RF direta,recall_3,0.7846153846153846
+4,1,classificacao,RF direta,recall_4,0.25
+4,1,classificacao,RF direta,f1_1,0.9459459459459459
+4,1,classificacao,RF direta,f1_2,0.9163636363636364
+4,1,classificacao,RF direta,f1_3,0.816
+4,1,classificacao,RF direta,f1_4,0.3333333333333333
+4,1,classificacao,RF direta,precision_macro,0.7973907418056354
+4,1,classificacao,RF direta,recall_macro,0.7302149595060042
+4,1,classificacao,RF direta,f1_macro,0.752910728910729
+4,1,classificacao,RF direta,subtriagem_n,9.0
+4,1,classificacao,RF direta,subtriagem_taxa,0.0375
+4,1,classificacao,RF direta,sobretriagem_n,18.0
+4,1,classificacao,RF direta,sobretriagem_taxa,0.075
+4,1,classificacao,RF 2 estágios,acuracia,0.9083333333333333
+4,1,classificacao,RF 2 estágios,precision_1,1.0
+4,1,classificacao,RF 2 estágios,precision_2,0.9078014184397163
+4,1,classificacao,RF 2 estágios,precision_3,0.8548387096774194
+4,1,classificacao,RF 2 estágios,precision_4,1.0
+4,1,classificacao,RF 2 estágios,recall_1,0.972972972972973
+4,1,classificacao,RF 2 estágios,recall_2,0.9552238805970149
+4,1,classificacao,RF 2 estágios,recall_3,0.8153846153846154
+4,1,classificacao,RF 2 estágios,recall_4,0.25
+4,1,classificacao,RF 2 estágios,f1_1,0.9863013698630136
+4,1,classificacao,RF 2 estágios,f1_2,0.9309090909090909
+4,1,classificacao,RF 2 estágios,f1_3,0.8346456692913385
+4,1,classificacao,RF 2 estágios,f1_4,0.4
+4,1,classificacao,RF 2 estágios,precision_macro,0.9406600320292839
+4,1,classificacao,RF 2 estágios,recall_macro,0.7483953672386507
+4,1,classificacao,RF 2 estágios,f1_macro,0.7879640325158608
+4,1,classificacao,RF 2 estágios,subtriagem_n,7.0
+4,1,classificacao,RF 2 estágios,subtriagem_taxa,0.029166666666666667
+4,1,classificacao,RF 2 estágios,sobretriagem_n,15.0
+4,1,classificacao,RF 2 estágios,sobretriagem_taxa,0.0625
+4,1,classificacao,MLP direta,acuracia,0.8916666666666667
+4,1,classificacao,MLP direta,precision_1,0.8536585365853658
+4,1,classificacao,MLP direta,precision_2,0.9318181818181818
+4,1,classificacao,MLP direta,precision_3,0.873015873015873
+4,1,classificacao,MLP direta,precision_4,0.25
+4,1,classificacao,MLP direta,recall_1,0.9459459459459459
+4,1,classificacao,MLP direta,recall_2,0.917910447761194
+4,1,classificacao,MLP direta,recall_3,0.8461538461538461
+4,1,classificacao,MLP direta,recall_4,0.25
+4,1,classificacao,MLP direta,f1_1,0.8974358974358975
+4,1,classificacao,MLP direta,f1_2,0.924812030075188
+4,1,classificacao,MLP direta,f1_3,0.859375
+4,1,classificacao,MLP direta,f1_4,0.25
+4,1,classificacao,MLP direta,precision_macro,0.7271231478548552
+4,1,classificacao,MLP direta,recall_macro,0.7400025599652466
+4,1,classificacao,MLP direta,f1_macro,0.7329057318777714
+4,1,classificacao,MLP direta,subtriagem_n,10.0
+4,1,classificacao,MLP direta,subtriagem_taxa,0.041666666666666664
+4,1,classificacao,MLP direta,sobretriagem_n,16.0
+4,1,classificacao,MLP direta,sobretriagem_taxa,0.06666666666666667
+4,1,classificacao,MLP 2 estágios,acuracia,0.9
+4,1,classificacao,MLP 2 estágios,precision_1,0.7551020408163265
+4,1,classificacao,MLP 2 estágios,precision_2,0.9586776859504132
+4,1,classificacao,MLP 2 estágios,precision_3,0.8955223880597015
+4,1,classificacao,MLP 2 estágios,precision_4,1.0
+4,1,classificacao,MLP 2 estágios,recall_1,1.0
+4,1,classificacao,MLP 2 estágios,recall_2,0.8656716417910447
+4,1,classificacao,MLP 2 estágios,recall_3,0.9230769230769231
+4,1,classificacao,MLP 2 estágios,recall_4,0.75
+4,1,classificacao,MLP 2 estágios,f1_1,0.8604651162790697
+4,1,classificacao,MLP 2 estágios,f1_2,0.9098039215686274
+4,1,classificacao,MLP 2 estágios,f1_3,0.9090909090909091
+4,1,classificacao,MLP 2 estágios,f1_4,0.8571428571428571
+4,1,classificacao,MLP 2 estágios,precision_macro,0.9023255287066103
+4,1,classificacao,MLP 2 estágios,recall_macro,0.8846871412169919
+4,1,classificacao,MLP 2 estágios,f1_macro,0.8841257010203659
+4,1,classificacao,MLP 2 estágios,subtriagem_n,6.0
+4,1,classificacao,MLP 2 estágios,subtriagem_taxa,0.025
+4,1,classificacao,MLP 2 estágios,sobretriagem_n,18.0
+4,1,classificacao,MLP 2 estágios,sobretriagem_taxa,0.075
+4,2,regressao,RF,rmse,3.6335717802332685
+4,2,regressao,RF,mae,2.39922896763056
+4,2,regressao,RF,r2,0.9522544351137866
+4,2,regressao,MLP,rmse,2.2218750922244843
+4,2,regressao,MLP,mae,1.5848875082792409
+4,2,regressao,MLP,r2,0.9821472621095647
+4,2,classificacao,RF direta,acuracia,0.925
+4,2,classificacao,RF direta,precision_1,0.96875
+4,2,classificacao,RF direta,precision_2,0.9136690647482014
+4,2,classificacao,RF direta,precision_3,0.921875
+4,2,classificacao,RF direta,precision_4,1.0
+4,2,classificacao,RF direta,recall_1,0.8157894736842105
+4,2,classificacao,RF direta,recall_2,0.9548872180451128
+4,2,classificacao,RF direta,recall_3,0.921875
+4,2,classificacao,RF direta,recall_4,1.0
+4,2,classificacao,RF direta,f1_1,0.8857142857142857
+4,2,classificacao,RF direta,f1_2,0.9338235294117647
+4,2,classificacao,RF direta,f1_3,0.921875
+4,2,classificacao,RF direta,f1_4,1.0
+4,2,classificacao,RF direta,precision_macro,0.9510735161870504
+4,2,classificacao,RF direta,recall_macro,0.9231379229323309
+4,2,classificacao,RF direta,f1_macro,0.9353532037815127
+4,2,classificacao,RF direta,subtriagem_n,12.0
+4,2,classificacao,RF direta,subtriagem_taxa,0.05
+4,2,classificacao,RF direta,sobretriagem_n,6.0
+4,2,classificacao,RF direta,sobretriagem_taxa,0.025
+4,2,classificacao,RF 2 estágios,acuracia,0.9125
+4,2,classificacao,RF 2 estágios,precision_1,1.0
+4,2,classificacao,RF 2 estágios,precision_2,0.9253731343283582
+4,2,classificacao,RF 2 estágios,precision_3,0.8428571428571429
+4,2,classificacao,RF 2 estágios,precision_4,1.0
+4,2,classificacao,RF 2 estágios,recall_1,0.868421052631579
+4,2,classificacao,RF 2 estágios,recall_2,0.9323308270676691
+4,2,classificacao,RF 2 estágios,recall_3,0.921875
+4,2,classificacao,RF 2 estágios,recall_4,0.6
+4,2,classificacao,RF 2 estágios,f1_1,0.9295774647887324
+4,2,classificacao,RF 2 estágios,f1_2,0.9288389513108615
+4,2,classificacao,RF 2 estágios,f1_3,0.8805970149253731
+4,2,classificacao,RF 2 estágios,f1_4,0.75
+4,2,classificacao,RF 2 estágios,precision_macro,0.9420575692963753
+4,2,classificacao,RF 2 estágios,recall_macro,0.830656719924812
+4,2,classificacao,RF 2 estágios,f1_macro,0.8722533577562418
+4,2,classificacao,RF 2 estágios,subtriagem_n,14.0
+4,2,classificacao,RF 2 estágios,subtriagem_taxa,0.058333333333333334
+4,2,classificacao,RF 2 estágios,sobretriagem_n,7.0
+4,2,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+4,2,classificacao,MLP direta,acuracia,0.8958333333333334
+4,2,classificacao,MLP direta,precision_1,0.8484848484848485
+4,2,classificacao,MLP direta,precision_2,0.8865248226950354
+4,2,classificacao,MLP direta,precision_3,0.95
+4,2,classificacao,MLP direta,precision_4,0.8333333333333334
+4,2,classificacao,MLP direta,recall_1,0.7368421052631579
+4,2,classificacao,MLP direta,recall_2,0.9398496240601504
+4,2,classificacao,MLP direta,recall_3,0.890625
+4,2,classificacao,MLP direta,recall_4,1.0
+4,2,classificacao,MLP direta,f1_1,0.7887323943661971
+4,2,classificacao,MLP direta,f1_2,0.9124087591240876
+4,2,classificacao,MLP direta,f1_3,0.9193548387096774
+4,2,classificacao,MLP direta,f1_4,0.9090909090909091
+4,2,classificacao,MLP direta,precision_macro,0.8795857511283044
+4,2,classificacao,MLP direta,recall_macro,0.8918291823308271
+4,2,classificacao,MLP direta,f1_macro,0.8823967253227178
+4,2,classificacao,MLP direta,subtriagem_n,14.0
+4,2,classificacao,MLP direta,subtriagem_taxa,0.058333333333333334
+4,2,classificacao,MLP direta,sobretriagem_n,11.0
+4,2,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+4,2,classificacao,MLP 2 estágios,acuracia,0.9291666666666667
+4,2,classificacao,MLP 2 estágios,precision_1,0.813953488372093
+4,2,classificacao,MLP 2 estágios,precision_2,0.9328358208955224
+4,2,classificacao,MLP 2 estágios,precision_3,1.0
+4,2,classificacao,MLP 2 estágios,precision_4,1.0
+4,2,classificacao,MLP 2 estágios,recall_1,0.9210526315789473
+4,2,classificacao,MLP 2 estágios,recall_2,0.9398496240601504
+4,2,classificacao,MLP 2 estágios,recall_3,0.90625
+4,2,classificacao,MLP 2 estágios,recall_4,1.0
+4,2,classificacao,MLP 2 estágios,f1_1,0.8641975308641975
+4,2,classificacao,MLP 2 estágios,f1_2,0.9363295880149812
+4,2,classificacao,MLP 2 estágios,f1_3,0.9508196721311475
+4,2,classificacao,MLP 2 estágios,f1_4,1.0
+4,2,classificacao,MLP 2 estágios,precision_macro,0.9366973273169039
+4,2,classificacao,MLP 2 estágios,recall_macro,0.9417880639097744
+4,2,classificacao,MLP 2 estágios,f1_macro,0.9378366977525816
+4,2,classificacao,MLP 2 estágios,subtriagem_n,3.0
+4,2,classificacao,MLP 2 estágios,subtriagem_taxa,0.0125
+4,2,classificacao,MLP 2 estágios,sobretriagem_n,14.0
+4,2,classificacao,MLP 2 estágios,sobretriagem_taxa,0.058333333333333334
+4,3,regressao,RF,rmse,2.8551116003310946
+4,3,regressao,RF,mae,1.8838760338833398
+4,3,regressao,RF,r2,0.9700446963994677
+4,3,regressao,MLP,rmse,1.7927476335213786
+4,3,regressao,MLP,mae,1.313341038490077
+4,3,regressao,MLP,r2,0.9881895658038993
+4,3,classificacao,RF direta,acuracia,0.9166666666666666
+4,3,classificacao,RF direta,precision_1,0.9705882352941176
+4,3,classificacao,RF direta,precision_2,0.9253731343283582
+4,3,classificacao,RF direta,precision_3,0.8676470588235294
+4,3,classificacao,RF direta,precision_4,1.0
+4,3,classificacao,RF direta,recall_1,0.868421052631579
+4,3,classificacao,RF direta,recall_2,0.9323308270676691
+4,3,classificacao,RF direta,recall_3,0.921875
+4,3,classificacao,RF direta,recall_4,0.8
+4,3,classificacao,RF direta,f1_1,0.9166666666666666
+4,3,classificacao,RF direta,f1_2,0.9288389513108615
+4,3,classificacao,RF direta,f1_3,0.8939393939393939
+4,3,classificacao,RF direta,f1_4,0.8888888888888888
+4,3,classificacao,RF direta,precision_macro,0.9409021071115014
+4,3,classificacao,RF direta,recall_macro,0.8806567199248121
+4,3,classificacao,RF direta,f1_macro,0.9070834752014527
+4,3,classificacao,RF direta,subtriagem_n,13.0
+4,3,classificacao,RF direta,subtriagem_taxa,0.05416666666666667
+4,3,classificacao,RF direta,sobretriagem_n,7.0
+4,3,classificacao,RF direta,sobretriagem_taxa,0.029166666666666667
+4,3,classificacao,RF 2 estágios,acuracia,0.925
+4,3,classificacao,RF 2 estágios,precision_1,1.0
+4,3,classificacao,RF 2 estágios,precision_2,0.9398496240601504
+4,3,classificacao,RF 2 estágios,precision_3,0.8591549295774648
+4,3,classificacao,RF 2 estágios,precision_4,1.0
+4,3,classificacao,RF 2 estágios,recall_1,0.868421052631579
+4,3,classificacao,RF 2 estágios,recall_2,0.9398496240601504
+4,3,classificacao,RF 2 estágios,recall_3,0.953125
+4,3,classificacao,RF 2 estágios,recall_4,0.6
+4,3,classificacao,RF 2 estágios,f1_1,0.9295774647887324
+4,3,classificacao,RF 2 estágios,f1_2,0.9398496240601504
+4,3,classificacao,RF 2 estágios,f1_3,0.9037037037037037
+4,3,classificacao,RF 2 estágios,f1_4,0.75
+4,3,classificacao,RF 2 estágios,precision_macro,0.9497511384094037
+4,3,classificacao,RF 2 estágios,recall_macro,0.8403489191729324
+4,3,classificacao,RF 2 estágios,f1_macro,0.8807826981381466
+4,3,classificacao,RF 2 estágios,subtriagem_n,13.0
+4,3,classificacao,RF 2 estágios,subtriagem_taxa,0.05416666666666667
+4,3,classificacao,RF 2 estágios,sobretriagem_n,5.0
+4,3,classificacao,RF 2 estágios,sobretriagem_taxa,0.020833333333333332
+4,3,classificacao,MLP direta,acuracia,0.9083333333333333
+4,3,classificacao,MLP direta,precision_1,0.9666666666666667
+4,3,classificacao,MLP direta,precision_2,0.917910447761194
+4,3,classificacao,MLP direta,precision_3,0.8611111111111112
+4,3,classificacao,MLP direta,precision_4,1.0
+4,3,classificacao,MLP direta,recall_1,0.7631578947368421
+4,3,classificacao,MLP direta,recall_2,0.924812030075188
+4,3,classificacao,MLP direta,recall_3,0.96875
+4,3,classificacao,MLP direta,recall_4,0.8
+4,3,classificacao,MLP direta,f1_1,0.8529411764705882
+4,3,classificacao,MLP direta,f1_2,0.9213483146067416
+4,3,classificacao,MLP direta,f1_3,0.9117647058823529
+4,3,classificacao,MLP direta,f1_4,0.8888888888888888
+4,3,classificacao,MLP direta,precision_macro,0.936422056384743
+4,3,classificacao,MLP direta,recall_macro,0.8641799812030075
+4,3,classificacao,MLP direta,f1_macro,0.8937357714621429
+4,3,classificacao,MLP direta,subtriagem_n,18.0
+4,3,classificacao,MLP direta,subtriagem_taxa,0.075
+4,3,classificacao,MLP direta,sobretriagem_n,4.0
+4,3,classificacao,MLP direta,sobretriagem_taxa,0.016666666666666666
+4,3,classificacao,MLP 2 estágios,acuracia,0.95
+4,3,classificacao,MLP 2 estágios,precision_1,0.9444444444444444
+4,3,classificacao,MLP 2 estágios,precision_2,0.9692307692307692
+4,3,classificacao,MLP 2 estágios,precision_3,0.9264705882352942
+4,3,classificacao,MLP 2 estágios,precision_4,0.8333333333333334
+4,3,classificacao,MLP 2 estágios,recall_1,0.8947368421052632
+4,3,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+4,3,classificacao,MLP 2 estágios,recall_3,0.984375
+4,3,classificacao,MLP 2 estágios,recall_4,1.0
+4,3,classificacao,MLP 2 estágios,f1_1,0.918918918918919
+4,3,classificacao,MLP 2 estágios,f1_2,0.9581749049429658
+4,3,classificacao,MLP 2 estágios,f1_3,0.9545454545454546
+4,3,classificacao,MLP 2 estágios,f1_4,0.9090909090909091
+4,3,classificacao,MLP 2 estágios,precision_macro,0.9183697838109602
+4,3,classificacao,MLP 2 estágios,recall_macro,0.9566200657894737
+4,3,classificacao,MLP 2 estágios,f1_macro,0.9351825468745621
+4,3,classificacao,MLP 2 estágios,subtriagem_n,10.0
+4,3,classificacao,MLP 2 estágios,subtriagem_taxa,0.041666666666666664
+4,3,classificacao,MLP 2 estágios,sobretriagem_n,2.0
+4,3,classificacao,MLP 2 estágios,sobretriagem_taxa,0.008333333333333333
+4,4,regressao,RF,rmse,2.3476252188775475
+4,4,regressao,RF,mae,1.5337094177039954
+4,4,regressao,RF,r2,0.9807533962276448
+4,4,regressao,MLP,rmse,1.9564213805765958
+4,4,regressao,MLP,mae,1.4372849758525283
+4,4,regressao,MLP,r2,0.9866333870095324
+4,4,classificacao,RF direta,acuracia,0.9291666666666667
+4,4,classificacao,RF direta,precision_1,1.0
+4,4,classificacao,RF direta,precision_2,0.9612403100775194
+4,4,classificacao,RF direta,precision_3,0.8513513513513513
+4,4,classificacao,RF direta,precision_4,0.75
+4,4,classificacao,RF direta,recall_1,0.8918918918918919
+4,4,classificacao,RF direta,recall_2,0.9323308270676691
+4,4,classificacao,RF direta,recall_3,0.9692307692307692
+4,4,classificacao,RF direta,recall_4,0.6
+4,4,classificacao,RF direta,f1_1,0.9428571428571428
+4,4,classificacao,RF direta,f1_2,0.9465648854961832
+4,4,classificacao,RF direta,f1_3,0.9064748201438849
+4,4,classificacao,RF direta,f1_4,0.6666666666666666
+4,4,classificacao,RF direta,precision_macro,0.8906479153572177
+4,4,classificacao,RF direta,recall_macro,0.8483633720475826
+4,4,classificacao,RF direta,f1_macro,0.8656408787909694
+4,4,classificacao,RF direta,subtriagem_n,14.0
+4,4,classificacao,RF direta,subtriagem_taxa,0.058333333333333334
+4,4,classificacao,RF direta,sobretriagem_n,3.0
+4,4,classificacao,RF direta,sobretriagem_taxa,0.0125
+4,4,classificacao,RF 2 estágios,acuracia,0.9291666666666667
+4,4,classificacao,RF 2 estágios,precision_1,1.0
+4,4,classificacao,RF 2 estágios,precision_2,0.9338235294117647
+4,4,classificacao,RF 2 estágios,precision_3,0.8857142857142857
+4,4,classificacao,RF 2 estágios,precision_4,1.0
+4,4,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+4,4,classificacao,RF 2 estágios,recall_2,0.9548872180451128
+4,4,classificacao,RF 2 estágios,recall_3,0.9538461538461539
+4,4,classificacao,RF 2 estágios,recall_4,0.6
+4,4,classificacao,RF 2 estágios,f1_1,0.9117647058823529
+4,4,classificacao,RF 2 estágios,f1_2,0.9442379182156134
+4,4,classificacao,RF 2 estágios,f1_3,0.9185185185185185
+4,4,classificacao,RF 2 estágios,f1_4,0.75
+4,4,classificacao,RF 2 estágios,precision_macro,0.9548844537815127
+4,4,classificacao,RF 2 estágios,recall_macro,0.8366428024322762
+4,4,classificacao,RF 2 estágios,f1_macro,0.8811302856541212
+4,4,classificacao,RF 2 estágios,subtriagem_n,12.0
+4,4,classificacao,RF 2 estágios,subtriagem_taxa,0.05
+4,4,classificacao,RF 2 estágios,sobretriagem_n,5.0
+4,4,classificacao,RF 2 estágios,sobretriagem_taxa,0.020833333333333332
+4,4,classificacao,MLP direta,acuracia,0.925
+4,4,classificacao,MLP direta,precision_1,0.9375
+4,4,classificacao,MLP direta,precision_2,0.9393939393939394
+4,4,classificacao,MLP direta,precision_3,0.8888888888888888
+4,4,classificacao,MLP direta,precision_4,1.0
+4,4,classificacao,MLP direta,recall_1,0.8108108108108109
+4,4,classificacao,MLP direta,recall_2,0.9323308270676691
+4,4,classificacao,MLP direta,recall_3,0.9846153846153847
+4,4,classificacao,MLP direta,recall_4,0.8
+4,4,classificacao,MLP direta,f1_1,0.8695652173913043
+4,4,classificacao,MLP direta,f1_2,0.9358490566037736
+4,4,classificacao,MLP direta,f1_3,0.9343065693430657
+4,4,classificacao,MLP direta,f1_4,0.8888888888888888
+4,4,classificacao,MLP direta,precision_macro,0.9414457070707071
+4,4,classificacao,MLP direta,recall_macro,0.8819392556234662
+4,4,classificacao,MLP direta,f1_macro,0.9071524330567581
+4,4,classificacao,MLP direta,subtriagem_n,14.0
+4,4,classificacao,MLP direta,subtriagem_taxa,0.058333333333333334
+4,4,classificacao,MLP direta,sobretriagem_n,4.0
+4,4,classificacao,MLP direta,sobretriagem_taxa,0.016666666666666666
+4,4,classificacao,MLP 2 estágios,acuracia,0.9416666666666667
+4,4,classificacao,MLP 2 estágios,precision_1,0.8888888888888888
+4,4,classificacao,MLP 2 estágios,precision_2,0.9477611940298507
+4,4,classificacao,MLP 2 estágios,precision_3,0.9545454545454546
+4,4,classificacao,MLP 2 estágios,precision_4,1.0
+4,4,classificacao,MLP 2 estágios,recall_1,0.8648648648648649
+4,4,classificacao,MLP 2 estágios,recall_2,0.9548872180451128
+4,4,classificacao,MLP 2 estágios,recall_3,0.9692307692307692
+4,4,classificacao,MLP 2 estágios,recall_4,0.8
+4,4,classificacao,MLP 2 estágios,f1_1,0.8767123287671232
+4,4,classificacao,MLP 2 estágios,f1_2,0.951310861423221
+4,4,classificacao,MLP 2 estágios,f1_3,0.9618320610687023
+4,4,classificacao,MLP 2 estágios,f1_4,0.8888888888888888
+4,4,classificacao,MLP 2 estágios,precision_macro,0.9477988843660485
+4,4,classificacao,MLP 2 estágios,recall_macro,0.8972457130351867
+4,4,classificacao,MLP 2 estágios,f1_macro,0.9196860350369839
+4,4,classificacao,MLP 2 estágios,subtriagem_n,7.0
+4,4,classificacao,MLP 2 estágios,subtriagem_taxa,0.029166666666666667
+4,4,classificacao,MLP 2 estágios,sobretriagem_n,7.0
+4,4,classificacao,MLP 2 estágios,sobretriagem_taxa,0.029166666666666667
+4,5,regressao,RF,rmse,3.146187235920102
+4,5,regressao,RF,mae,1.8179819110338815
+4,5,regressao,RF,r2,0.9652047696698213
+4,5,regressao,MLP,rmse,2.4015329416051268
+4,5,regressao,MLP,mae,1.580013641120574
+4,5,regressao,MLP,r2,0.9797265489644876
+4,5,classificacao,RF direta,acuracia,0.9208333333333333
+4,5,classificacao,RF direta,precision_1,0.8918918918918919
+4,5,classificacao,RF direta,precision_2,0.9136690647482014
+4,5,classificacao,RF direta,precision_3,0.95
+4,5,classificacao,RF direta,precision_4,1.0
+4,5,classificacao,RF direta,recall_1,0.8918918918918919
+4,5,classificacao,RF direta,recall_2,0.9548872180451128
+4,5,classificacao,RF direta,recall_3,0.8769230769230769
+4,5,classificacao,RF direta,recall_4,0.8
+4,5,classificacao,RF direta,f1_1,0.8918918918918919
+4,5,classificacao,RF direta,f1_2,0.9338235294117647
+4,5,classificacao,RF direta,f1_3,0.912
+4,5,classificacao,RF direta,f1_4,0.8888888888888888
+4,5,classificacao,RF direta,precision_macro,0.9388902391600233
+4,5,classificacao,RF direta,recall_macro,0.8809255467150203
+4,5,classificacao,RF direta,f1_macro,0.9066510775481363
+4,5,classificacao,RF direta,subtriagem_n,6.0
+4,5,classificacao,RF direta,subtriagem_taxa,0.025
+4,5,classificacao,RF direta,sobretriagem_n,13.0
+4,5,classificacao,RF direta,sobretriagem_taxa,0.05416666666666667
+4,5,classificacao,RF 2 estágios,acuracia,0.9166666666666666
+4,5,classificacao,RF 2 estágios,precision_1,1.0
+4,5,classificacao,RF 2 estágios,precision_2,0.9078014184397163
+4,5,classificacao,RF 2 estágios,precision_3,0.8923076923076924
+4,5,classificacao,RF 2 estágios,precision_4,1.0
+4,5,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+4,5,classificacao,RF 2 estágios,recall_2,0.9624060150375939
+4,5,classificacao,RF 2 estágios,recall_3,0.8923076923076924
+4,5,classificacao,RF 2 estágios,recall_4,0.6
+4,5,classificacao,RF 2 estágios,f1_1,0.9117647058823529
+4,5,classificacao,RF 2 estágios,f1_2,0.9343065693430657
+4,5,classificacao,RF 2 estágios,f1_3,0.8923076923076924
+4,5,classificacao,RF 2 estágios,f1_4,0.75
+4,5,classificacao,RF 2 estágios,precision_macro,0.9500272776868521
+4,5,classificacao,RF 2 estágios,recall_macro,0.823137886295781
+4,5,classificacao,RF 2 estágios,f1_macro,0.8720947418832777
+4,5,classificacao,RF 2 estágios,subtriagem_n,11.0
+4,5,classificacao,RF 2 estágios,subtriagem_taxa,0.04583333333333333
+4,5,classificacao,RF 2 estágios,sobretriagem_n,9.0
+4,5,classificacao,RF 2 estágios,sobretriagem_taxa,0.0375
+4,5,classificacao,MLP direta,acuracia,0.9375
+4,5,classificacao,MLP direta,precision_1,1.0
+4,5,classificacao,MLP direta,precision_2,0.916083916083916
+4,5,classificacao,MLP direta,precision_3,0.9523809523809523
+4,5,classificacao,MLP direta,precision_4,1.0
+4,5,classificacao,MLP direta,recall_1,0.8108108108108109
+4,5,classificacao,MLP direta,recall_2,0.9849624060150376
+4,5,classificacao,MLP direta,recall_3,0.9230769230769231
+4,5,classificacao,MLP direta,recall_4,0.8
+4,5,classificacao,MLP direta,f1_1,0.8955223880597015
+4,5,classificacao,MLP direta,f1_2,0.9492753623188406
+4,5,classificacao,MLP direta,f1_3,0.9375
+4,5,classificacao,MLP direta,f1_4,0.8888888888888888
+4,5,classificacao,MLP direta,precision_macro,0.9671162171162171
+4,5,classificacao,MLP direta,recall_macro,0.8797125349756929
+4,5,classificacao,MLP direta,f1_macro,0.9177966598168578
+4,5,classificacao,MLP direta,subtriagem_n,9.0
+4,5,classificacao,MLP direta,subtriagem_taxa,0.0375
+4,5,classificacao,MLP direta,sobretriagem_n,6.0
+4,5,classificacao,MLP direta,sobretriagem_taxa,0.025
+4,5,classificacao,MLP 2 estágios,acuracia,0.9208333333333333
+4,5,classificacao,MLP 2 estágios,precision_1,0.825
+4,5,classificacao,MLP 2 estágios,precision_2,0.9253731343283582
+4,5,classificacao,MLP 2 estágios,precision_3,0.9672131147540983
+4,5,classificacao,MLP 2 estágios,precision_4,1.0
+4,5,classificacao,MLP 2 estágios,recall_1,0.8918918918918919
+4,5,classificacao,MLP 2 estágios,recall_2,0.9323308270676691
+4,5,classificacao,MLP 2 estágios,recall_3,0.9076923076923077
+4,5,classificacao,MLP 2 estágios,recall_4,1.0
+4,5,classificacao,MLP 2 estágios,f1_1,0.8571428571428571
+4,5,classificacao,MLP 2 estágios,f1_2,0.9288389513108615
+4,5,classificacao,MLP 2 estágios,f1_3,0.9365079365079365
+4,5,classificacao,MLP 2 estágios,f1_4,1.0
+4,5,classificacao,MLP 2 estágios,precision_macro,0.9293965622706142
+4,5,classificacao,MLP 2 estágios,recall_macro,0.9329787566629671
+4,5,classificacao,MLP 2 estágios,f1_macro,0.9306224362404139
+4,5,classificacao,MLP 2 estágios,subtriagem_n,6.0
+4,5,classificacao,MLP 2 estágios,subtriagem_taxa,0.025
+4,5,classificacao,MLP 2 estágios,sobretriagem_n,13.0
+4,5,classificacao,MLP 2 estágios,sobretriagem_taxa,0.05416666666666667
+5,1,regressao,RF,rmse,3.103617853852568
+5,1,regressao,RF,mae,1.7493342877344398
+5,1,regressao,RF,r2,0.9662353694589633
+5,1,regressao,MLP,rmse,2.18666264273035
+5,1,regressao,MLP,mae,1.53606733899528
+5,1,regressao,MLP,r2,0.9832394182052029
+5,1,classificacao,RF direta,acuracia,0.9083333333333333
+5,1,classificacao,RF direta,precision_1,0.918918918918919
+5,1,classificacao,RF direta,precision_2,0.9253731343283582
+5,1,classificacao,RF direta,precision_3,0.8656716417910447
+5,1,classificacao,RF direta,precision_4,1.0
+5,1,classificacao,RF direta,recall_1,0.918918918918919
+5,1,classificacao,RF direta,recall_2,0.9253731343283582
+5,1,classificacao,RF direta,recall_3,0.8923076923076924
+5,1,classificacao,RF direta,recall_4,0.5
+5,1,classificacao,RF direta,f1_1,0.918918918918919
+5,1,classificacao,RF direta,f1_2,0.9253731343283582
+5,1,classificacao,RF direta,f1_3,0.8787878787878788
+5,1,classificacao,RF direta,f1_4,0.6666666666666666
+5,1,classificacao,RF direta,precision_macro,0.9274909237595804
+5,1,classificacao,RF direta,recall_macro,0.8091499363887423
+5,1,classificacao,RF direta,f1_macro,0.8474366496754556
+5,1,classificacao,RF direta,subtriagem_n,10.0
+5,1,classificacao,RF direta,subtriagem_taxa,0.041666666666666664
+5,1,classificacao,RF direta,sobretriagem_n,12.0
+5,1,classificacao,RF direta,sobretriagem_taxa,0.05
+5,1,classificacao,RF 2 estágios,acuracia,0.9291666666666667
+5,1,classificacao,RF 2 estágios,precision_1,1.0
+5,1,classificacao,RF 2 estágios,precision_2,0.9343065693430657
+5,1,classificacao,RF 2 estágios,precision_3,0.8857142857142857
+5,1,classificacao,RF 2 estágios,precision_4,1.0
+5,1,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+5,1,classificacao,RF 2 estágios,recall_2,0.9552238805970149
+5,1,classificacao,RF 2 estágios,recall_3,0.9538461538461539
+5,1,classificacao,RF 2 estágios,recall_4,0.5
+5,1,classificacao,RF 2 estágios,f1_1,0.9117647058823529
+5,1,classificacao,RF 2 estágios,f1_2,0.9446494464944649
+5,1,classificacao,RF 2 estágios,f1_3,0.9185185185185185
+5,1,classificacao,RF 2 estágios,f1_4,0.6666666666666666
+5,1,classificacao,RF 2 estágios,precision_macro,0.9550052137643379
+5,1,classificacao,RF 2 estágios,recall_macro,0.8117269680702517
+5,1,classificacao,RF 2 estágios,f1_macro,0.8603998343905007
+5,1,classificacao,RF 2 estágios,subtriagem_n,12.0
+5,1,classificacao,RF 2 estágios,subtriagem_taxa,0.05
+5,1,classificacao,RF 2 estágios,sobretriagem_n,5.0
+5,1,classificacao,RF 2 estágios,sobretriagem_taxa,0.020833333333333332
+5,1,classificacao,MLP direta,acuracia,0.9041666666666667
+5,1,classificacao,MLP direta,precision_1,0.8571428571428571
+5,1,classificacao,MLP direta,precision_2,0.9130434782608695
+5,1,classificacao,MLP direta,precision_3,0.921875
+5,1,classificacao,MLP direta,precision_4,0.6666666666666666
+5,1,classificacao,MLP direta,recall_1,0.8108108108108109
+5,1,classificacao,MLP direta,recall_2,0.9402985074626866
+5,1,classificacao,MLP direta,recall_3,0.9076923076923077
+5,1,classificacao,MLP direta,recall_4,0.5
+5,1,classificacao,MLP direta,f1_1,0.8333333333333334
+5,1,classificacao,MLP direta,f1_2,0.9264705882352942
+5,1,classificacao,MLP direta,f1_3,0.9147286821705426
+5,1,classificacao,MLP direta,f1_4,0.5714285714285714
+5,1,classificacao,MLP direta,precision_macro,0.8396820005175983
+5,1,classificacao,MLP direta,recall_macro,0.7897004064914512
+5,1,classificacao,MLP direta,f1_macro,0.8114902937919353
+5,1,classificacao,MLP direta,subtriagem_n,11.0
+5,1,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+5,1,classificacao,MLP direta,sobretriagem_n,12.0
+5,1,classificacao,MLP direta,sobretriagem_taxa,0.05
+5,1,classificacao,MLP 2 estágios,acuracia,0.9166666666666666
+5,1,classificacao,MLP 2 estágios,precision_1,0.8823529411764706
+5,1,classificacao,MLP 2 estágios,precision_2,0.9323308270676691
+5,1,classificacao,MLP 2 estágios,precision_3,0.9117647058823529
+5,1,classificacao,MLP 2 estágios,precision_4,0.8
+5,1,classificacao,MLP 2 estágios,recall_1,0.8108108108108109
+5,1,classificacao,MLP 2 estágios,recall_2,0.9253731343283582
+5,1,classificacao,MLP 2 estágios,recall_3,0.9538461538461539
+5,1,classificacao,MLP 2 estágios,recall_4,1.0
+5,1,classificacao,MLP 2 estágios,f1_1,0.8450704225352113
+5,1,classificacao,MLP 2 estágios,f1_2,0.9288389513108615
+5,1,classificacao,MLP 2 estágios,f1_3,0.9323308270676691
+5,1,classificacao,MLP 2 estágios,f1_4,0.8888888888888888
+5,1,classificacao,MLP 2 estágios,precision_macro,0.8816121185316232
+5,1,classificacao,MLP 2 estágios,recall_macro,0.9225075247463308
+5,1,classificacao,MLP 2 estágios,f1_macro,0.8987822724506577
+5,1,classificacao,MLP 2 estágios,subtriagem_n,14.0
+5,1,classificacao,MLP 2 estágios,subtriagem_taxa,0.058333333333333334
+5,1,classificacao,MLP 2 estágios,sobretriagem_n,6.0
+5,1,classificacao,MLP 2 estágios,sobretriagem_taxa,0.025
+5,2,regressao,RF,rmse,2.50936281878844
+5,2,regressao,RF,mae,1.571350302136899
+5,2,regressao,RF,r2,0.9777561460246202
+5,2,regressao,MLP,rmse,1.8049045434966131
+5,2,regressao,MLP,mae,1.3599462971456373
+5,2,regressao,MLP,r2,0.9884922188453978
+5,2,classificacao,RF direta,acuracia,0.9291666666666667
+5,2,classificacao,RF direta,precision_1,1.0
+5,2,classificacao,RF direta,precision_2,0.927536231884058
+5,2,classificacao,RF direta,precision_3,0.890625
+5,2,classificacao,RF direta,precision_4,1.0
+5,2,classificacao,RF direta,recall_1,0.9210526315789473
+5,2,classificacao,RF direta,recall_2,0.9624060150375939
+5,2,classificacao,RF direta,recall_3,0.890625
+5,2,classificacao,RF direta,recall_4,0.6
+5,2,classificacao,RF direta,f1_1,0.958904109589041
+5,2,classificacao,RF direta,f1_2,0.9446494464944649
+5,2,classificacao,RF direta,f1_3,0.890625
+5,2,classificacao,RF direta,f1_4,0.75
+5,2,classificacao,RF direta,precision_macro,0.9545403079710145
+5,2,classificacao,RF direta,recall_macro,0.8435209116541353
+5,2,classificacao,RF direta,f1_macro,0.8860446390208765
+5,2,classificacao,RF direta,subtriagem_n,8.0
+5,2,classificacao,RF direta,subtriagem_taxa,0.03333333333333333
+5,2,classificacao,RF direta,sobretriagem_n,9.0
+5,2,classificacao,RF direta,sobretriagem_taxa,0.0375
+5,2,classificacao,RF 2 estágios,acuracia,0.9041666666666667
+5,2,classificacao,RF 2 estágios,precision_1,1.0
+5,2,classificacao,RF 2 estágios,precision_2,0.9172932330827067
+5,2,classificacao,RF 2 estágios,precision_3,0.8285714285714286
+5,2,classificacao,RF 2 estágios,precision_4,1.0
+5,2,classificacao,RF 2 estágios,recall_1,0.868421052631579
+5,2,classificacao,RF 2 estágios,recall_2,0.9172932330827067
+5,2,classificacao,RF 2 estágios,recall_3,0.90625
+5,2,classificacao,RF 2 estágios,recall_4,0.8
+5,2,classificacao,RF 2 estágios,f1_1,0.9295774647887324
+5,2,classificacao,RF 2 estágios,f1_2,0.9172932330827067
+5,2,classificacao,RF 2 estágios,f1_3,0.8656716417910447
+5,2,classificacao,RF 2 estágios,f1_4,0.8888888888888888
+5,2,classificacao,RF 2 estágios,precision_macro,0.9364661654135339
+5,2,classificacao,RF 2 estágios,recall_macro,0.8729910714285714
+5,2,classificacao,RF 2 estágios,f1_macro,0.9003578071378432
+5,2,classificacao,RF 2 estágios,subtriagem_n,16.0
+5,2,classificacao,RF 2 estágios,subtriagem_taxa,0.06666666666666667
+5,2,classificacao,RF 2 estágios,sobretriagem_n,7.0
+5,2,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+5,2,classificacao,MLP direta,acuracia,0.9291666666666667
+5,2,classificacao,MLP direta,precision_1,0.9411764705882353
+5,2,classificacao,MLP direta,precision_2,0.9333333333333333
+5,2,classificacao,MLP direta,precision_3,0.9104477611940298
+5,2,classificacao,MLP direta,precision_4,1.0
+5,2,classificacao,MLP direta,recall_1,0.8421052631578947
+5,2,classificacao,MLP direta,recall_2,0.9473684210526315
+5,2,classificacao,MLP direta,recall_3,0.953125
+5,2,classificacao,MLP direta,recall_4,0.8
+5,2,classificacao,MLP direta,f1_1,0.8888888888888888
+5,2,classificacao,MLP direta,f1_2,0.9402985074626866
+5,2,classificacao,MLP direta,f1_3,0.9312977099236641
+5,2,classificacao,MLP direta,f1_4,0.8888888888888888
+5,2,classificacao,MLP direta,precision_macro,0.9462393912788996
+5,2,classificacao,MLP direta,recall_macro,0.8856496710526316
+5,2,classificacao,MLP direta,f1_macro,0.912343498791032
+5,2,classificacao,MLP direta,subtriagem_n,11.0
+5,2,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+5,2,classificacao,MLP direta,sobretriagem_n,6.0
+5,2,classificacao,MLP direta,sobretriagem_taxa,0.025
+5,2,classificacao,MLP 2 estágios,acuracia,0.9333333333333333
+5,2,classificacao,MLP 2 estágios,precision_1,0.8717948717948718
+5,2,classificacao,MLP 2 estágios,precision_2,0.9398496240601504
+5,2,classificacao,MLP 2 estágios,precision_3,0.9523809523809523
+5,2,classificacao,MLP 2 estágios,precision_4,1.0
+5,2,classificacao,MLP 2 estágios,recall_1,0.8947368421052632
+5,2,classificacao,MLP 2 estágios,recall_2,0.9398496240601504
+5,2,classificacao,MLP 2 estágios,recall_3,0.9375
+5,2,classificacao,MLP 2 estágios,recall_4,1.0
+5,2,classificacao,MLP 2 estágios,f1_1,0.8831168831168831
+5,2,classificacao,MLP 2 estágios,f1_2,0.9398496240601504
+5,2,classificacao,MLP 2 estágios,f1_3,0.9448818897637795
+5,2,classificacao,MLP 2 estágios,f1_4,1.0
+5,2,classificacao,MLP 2 estágios,precision_macro,0.9410063620589937
+5,2,classificacao,MLP 2 estágios,recall_macro,0.9430216165413534
+5,2,classificacao,MLP 2 estágios,f1_macro,0.9419620992352032
+5,2,classificacao,MLP 2 estágios,subtriagem_n,7.0
+5,2,classificacao,MLP 2 estágios,subtriagem_taxa,0.029166666666666667
+5,2,classificacao,MLP 2 estágios,sobretriagem_n,9.0
+5,2,classificacao,MLP 2 estágios,sobretriagem_taxa,0.0375
+5,3,regressao,RF,rmse,3.1622363985876105
+5,3,regressao,RF,mae,1.9950086293589864
+5,3,regressao,RF,r2,0.962538649292706
+5,3,regressao,MLP,rmse,2.1645729289164173
+5,3,regressao,MLP,mae,1.532070571286506
+5,3,regressao,MLP,r2,0.9824474907301552
+5,3,classificacao,RF direta,acuracia,0.8916666666666667
+5,3,classificacao,RF direta,precision_1,0.9696969696969697
+5,3,classificacao,RF direta,precision_2,0.9044117647058824
+5,3,classificacao,RF direta,precision_3,0.835820895522388
+5,3,classificacao,RF direta,precision_4,0.75
+5,3,classificacao,RF direta,recall_1,0.8421052631578947
+5,3,classificacao,RF direta,recall_2,0.924812030075188
+5,3,classificacao,RF direta,recall_3,0.875
+5,3,classificacao,RF direta,recall_4,0.6
+5,3,classificacao,RF direta,f1_1,0.9014084507042254
+5,3,classificacao,RF direta,f1_2,0.9144981412639405
+5,3,classificacao,RF direta,f1_3,0.8549618320610687
+5,3,classificacao,RF direta,f1_4,0.6666666666666666
+5,3,classificacao,RF direta,precision_macro,0.86498240748131
+5,3,classificacao,RF direta,recall_macro,0.8104793233082707
+5,3,classificacao,RF direta,f1_macro,0.8343837726739752
+5,3,classificacao,RF direta,subtriagem_n,16.0
+5,3,classificacao,RF direta,subtriagem_taxa,0.06666666666666667
+5,3,classificacao,RF direta,sobretriagem_n,10.0
+5,3,classificacao,RF direta,sobretriagem_taxa,0.041666666666666664
+5,3,classificacao,RF 2 estágios,acuracia,0.8958333333333334
+5,3,classificacao,RF 2 estágios,precision_1,1.0
+5,3,classificacao,RF 2 estágios,precision_2,0.9104477611940298
+5,3,classificacao,RF 2 estágios,precision_3,0.8194444444444444
+5,3,classificacao,RF 2 estágios,precision_4,1.0
+5,3,classificacao,RF 2 estágios,recall_1,0.8157894736842105
+5,3,classificacao,RF 2 estágios,recall_2,0.9172932330827067
+5,3,classificacao,RF 2 estágios,recall_3,0.921875
+5,3,classificacao,RF 2 estágios,recall_4,0.6
+5,3,classificacao,RF 2 estágios,f1_1,0.8985507246376812
+5,3,classificacao,RF 2 estágios,f1_2,0.9138576779026217
+5,3,classificacao,RF 2 estágios,f1_3,0.8676470588235294
+5,3,classificacao,RF 2 estágios,f1_4,0.75
+5,3,classificacao,RF 2 estágios,precision_macro,0.9324730514096186
+5,3,classificacao,RF 2 estágios,recall_macro,0.8137394266917294
+5,3,classificacao,RF 2 estágios,f1_macro,0.8575138653409581
+5,3,classificacao,RF 2 estágios,subtriagem_n,18.0
+5,3,classificacao,RF 2 estágios,subtriagem_taxa,0.075
+5,3,classificacao,RF 2 estágios,sobretriagem_n,7.0
+5,3,classificacao,RF 2 estágios,sobretriagem_taxa,0.029166666666666667
+5,3,classificacao,MLP direta,acuracia,0.9
+5,3,classificacao,MLP direta,precision_1,0.90625
+5,3,classificacao,MLP direta,precision_2,0.8936170212765957
+5,3,classificacao,MLP direta,precision_3,0.90625
+5,3,classificacao,MLP direta,precision_4,1.0
+5,3,classificacao,MLP direta,recall_1,0.7631578947368421
+5,3,classificacao,MLP direta,recall_2,0.9473684210526315
+5,3,classificacao,MLP direta,recall_3,0.90625
+5,3,classificacao,MLP direta,recall_4,0.6
+5,3,classificacao,MLP direta,f1_1,0.8285714285714286
+5,3,classificacao,MLP direta,f1_2,0.9197080291970803
+5,3,classificacao,MLP direta,f1_3,0.90625
+5,3,classificacao,MLP direta,f1_4,0.75
+5,3,classificacao,MLP direta,precision_macro,0.9265292553191489
+5,3,classificacao,MLP direta,recall_macro,0.8041940789473684
+5,3,classificacao,MLP direta,f1_macro,0.8511323644421273
+5,3,classificacao,MLP direta,subtriagem_n,13.0
+5,3,classificacao,MLP direta,subtriagem_taxa,0.05416666666666667
+5,3,classificacao,MLP direta,sobretriagem_n,11.0
+5,3,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+5,3,classificacao,MLP 2 estágios,acuracia,0.9083333333333333
+5,3,classificacao,MLP 2 estágios,precision_1,0.7948717948717948
+5,3,classificacao,MLP 2 estágios,precision_2,0.9111111111111111
+5,3,classificacao,MLP 2 estágios,precision_3,0.9672131147540983
+5,3,classificacao,MLP 2 estágios,precision_4,1.0
+5,3,classificacao,MLP 2 estágios,recall_1,0.8157894736842105
+5,3,classificacao,MLP 2 estágios,recall_2,0.924812030075188
+5,3,classificacao,MLP 2 estágios,recall_3,0.921875
+5,3,classificacao,MLP 2 estágios,recall_4,1.0
+5,3,classificacao,MLP 2 estágios,f1_1,0.8051948051948052
+5,3,classificacao,MLP 2 estágios,f1_2,0.917910447761194
+5,3,classificacao,MLP 2 estágios,f1_3,0.944
+5,3,classificacao,MLP 2 estágios,f1_4,1.0
+5,3,classificacao,MLP 2 estágios,precision_macro,0.918299005184251
+5,3,classificacao,MLP 2 estágios,recall_macro,0.9156191259398496
+5,3,classificacao,MLP 2 estágios,f1_macro,0.9167763132389998
+5,3,classificacao,MLP 2 estágios,subtriagem_n,9.0
+5,3,classificacao,MLP 2 estágios,subtriagem_taxa,0.0375
+5,3,classificacao,MLP 2 estágios,sobretriagem_n,13.0
+5,3,classificacao,MLP 2 estágios,sobretriagem_taxa,0.05416666666666667
+5,4,regressao,RF,rmse,2.8131993191992617
+5,4,regressao,RF,mae,1.8261104782104078
+5,4,regressao,RF,r2,0.9705375287839659
+5,4,regressao,MLP,rmse,2.1761746533250426
+5,4,regressao,MLP,mae,1.5883616572569705
+5,4,regressao,MLP,r2,0.9823698641341951
+5,4,classificacao,RF direta,acuracia,0.9291666666666667
+5,4,classificacao,RF direta,precision_1,0.9428571428571428
+5,4,classificacao,RF direta,precision_2,0.9202898550724637
+5,4,classificacao,RF direta,precision_3,0.9354838709677419
+5,4,classificacao,RF direta,precision_4,1.0
+5,4,classificacao,RF direta,recall_1,0.8918918918918919
+5,4,classificacao,RF direta,recall_2,0.9548872180451128
+5,4,classificacao,RF direta,recall_3,0.8923076923076924
+5,4,classificacao,RF direta,recall_4,1.0
+5,4,classificacao,RF direta,f1_1,0.9166666666666666
+5,4,classificacao,RF direta,f1_2,0.9372693726937269
+5,4,classificacao,RF direta,f1_3,0.9133858267716536
+5,4,classificacao,RF direta,f1_4,1.0
+5,4,classificacao,RF direta,precision_macro,0.9496577172243371
+5,4,classificacao,RF direta,recall_macro,0.9347717005611742
+5,4,classificacao,RF direta,f1_macro,0.9418304665330118
+5,4,classificacao,RF direta,subtriagem_n,8.0
+5,4,classificacao,RF direta,subtriagem_taxa,0.03333333333333333
+5,4,classificacao,RF direta,sobretriagem_n,9.0
+5,4,classificacao,RF direta,sobretriagem_taxa,0.0375
+5,4,classificacao,RF 2 estágios,acuracia,0.9375
+5,4,classificacao,RF 2 estágios,precision_1,1.0
+5,4,classificacao,RF 2 estágios,precision_2,0.9225352112676056
+5,4,classificacao,RF 2 estágios,precision_3,0.9365079365079365
+5,4,classificacao,RF 2 estágios,precision_4,1.0
+5,4,classificacao,RF 2 estágios,recall_1,0.8648648648648649
+5,4,classificacao,RF 2 estágios,recall_2,0.9849624060150376
+5,4,classificacao,RF 2 estágios,recall_3,0.9076923076923077
+5,4,classificacao,RF 2 estágios,recall_4,0.6
+5,4,classificacao,RF 2 estágios,f1_1,0.927536231884058
+5,4,classificacao,RF 2 estágios,f1_2,0.9527272727272728
+5,4,classificacao,RF 2 estágios,f1_3,0.921875
+5,4,classificacao,RF 2 estágios,f1_4,0.75
+5,4,classificacao,RF 2 estágios,precision_macro,0.9647607869438855
+5,4,classificacao,RF 2 estágios,recall_macro,0.8393798946430525
+5,4,classificacao,RF 2 estágios,f1_macro,0.8880346261528327
+5,4,classificacao,RF 2 estágios,subtriagem_n,7.0
+5,4,classificacao,RF 2 estágios,subtriagem_taxa,0.029166666666666667
+5,4,classificacao,RF 2 estágios,sobretriagem_n,8.0
+5,4,classificacao,RF 2 estágios,sobretriagem_taxa,0.03333333333333333
+5,4,classificacao,MLP direta,acuracia,0.9083333333333333
+5,4,classificacao,MLP direta,precision_1,0.9393939393939394
+5,4,classificacao,MLP direta,precision_2,0.9
+5,4,classificacao,MLP direta,precision_3,0.9180327868852459
+5,4,classificacao,MLP direta,precision_4,0.8333333333333334
+5,4,classificacao,MLP direta,recall_1,0.8378378378378378
+5,4,classificacao,MLP direta,recall_2,0.9473684210526315
+5,4,classificacao,MLP direta,recall_3,0.8615384615384616
+5,4,classificacao,MLP direta,recall_4,1.0
+5,4,classificacao,MLP direta,f1_1,0.8857142857142857
+5,4,classificacao,MLP direta,f1_2,0.9230769230769231
+5,4,classificacao,MLP direta,f1_3,0.8888888888888888
+5,4,classificacao,MLP direta,f1_4,0.9090909090909091
+5,4,classificacao,MLP direta,precision_macro,0.8976900149031297
+5,4,classificacao,MLP direta,recall_macro,0.9116861801072327
+5,4,classificacao,MLP direta,f1_macro,0.9016927516927518
+5,4,classificacao,MLP direta,subtriagem_n,12.0
+5,4,classificacao,MLP direta,subtriagem_taxa,0.05
+5,4,classificacao,MLP direta,sobretriagem_n,10.0
+5,4,classificacao,MLP direta,sobretriagem_taxa,0.041666666666666664
+5,4,classificacao,MLP 2 estágios,acuracia,0.9416666666666667
+5,4,classificacao,MLP 2 estágios,precision_1,0.9696969696969697
+5,4,classificacao,MLP 2 estágios,precision_2,0.9280575539568345
+5,4,classificacao,MLP 2 estágios,precision_3,0.9523809523809523
+5,4,classificacao,MLP 2 estágios,precision_4,1.0
+5,4,classificacao,MLP 2 estágios,recall_1,0.8648648648648649
+5,4,classificacao,MLP 2 estágios,recall_2,0.9699248120300752
+5,4,classificacao,MLP 2 estágios,recall_3,0.9230769230769231
+5,4,classificacao,MLP 2 estágios,recall_4,1.0
+5,4,classificacao,MLP 2 estágios,f1_1,0.9142857142857143
+5,4,classificacao,MLP 2 estágios,f1_2,0.9485294117647058
+5,4,classificacao,MLP 2 estágios,f1_3,0.9375
+5,4,classificacao,MLP 2 estágios,f1_4,1.0
+5,4,classificacao,MLP 2 estágios,precision_macro,0.9625338690086891
+5,4,classificacao,MLP 2 estágios,recall_macro,0.9394666499929658
+5,4,classificacao,MLP 2 estágios,f1_macro,0.950078781512605
+5,4,classificacao,MLP 2 estágios,subtriagem_n,8.0
+5,4,classificacao,MLP 2 estágios,subtriagem_taxa,0.03333333333333333
+5,4,classificacao,MLP 2 estágios,sobretriagem_n,6.0
+5,4,classificacao,MLP 2 estágios,sobretriagem_taxa,0.025
+5,5,regressao,RF,rmse,2.812140986521532
+5,5,regressao,RF,mae,1.7451151289680529
+5,5,regressao,RF,r2,0.9720294985067282
+5,5,regressao,MLP,rmse,2.420706317826192
+5,5,regressao,MLP,mae,1.6164940879342846
+5,5,regressao,MLP,r2,0.979274248822596
+5,5,classificacao,RF direta,acuracia,0.9458333333333333
+5,5,classificacao,RF direta,precision_1,1.0
+5,5,classificacao,RF direta,precision_2,0.9416058394160584
+5,5,classificacao,RF direta,precision_3,0.9230769230769231
+5,5,classificacao,RF direta,precision_4,1.0
+5,5,classificacao,RF direta,recall_1,0.918918918918919
+5,5,classificacao,RF direta,recall_2,0.9699248120300752
+5,5,classificacao,RF direta,recall_3,0.9230769230769231
+5,5,classificacao,RF direta,recall_4,0.8
+5,5,classificacao,RF direta,f1_1,0.9577464788732394
+5,5,classificacao,RF direta,f1_2,0.9555555555555556
+5,5,classificacao,RF direta,f1_3,0.9230769230769231
+5,5,classificacao,RF direta,f1_4,0.8888888888888888
+5,5,classificacao,RF direta,precision_macro,0.9661706906232455
+5,5,classificacao,RF direta,recall_macro,0.9029801635064794
+5,5,classificacao,RF direta,f1_macro,0.9313169615986517
+5,5,classificacao,RF direta,subtriagem_n,7.0
+5,5,classificacao,RF direta,subtriagem_taxa,0.029166666666666667
+5,5,classificacao,RF direta,sobretriagem_n,6.0
+5,5,classificacao,RF direta,sobretriagem_taxa,0.025
+5,5,classificacao,RF 2 estágios,acuracia,0.9208333333333333
+5,5,classificacao,RF 2 estágios,precision_1,1.0
+5,5,classificacao,RF 2 estágios,precision_2,0.9148936170212766
+5,5,classificacao,RF 2 estágios,precision_3,0.8939393939393939
+5,5,classificacao,RF 2 estágios,precision_4,1.0
+5,5,classificacao,RF 2 estágios,recall_1,0.8378378378378378
+5,5,classificacao,RF 2 estágios,recall_2,0.9699248120300752
+5,5,classificacao,RF 2 estágios,recall_3,0.9076923076923077
+5,5,classificacao,RF 2 estágios,recall_4,0.4
+5,5,classificacao,RF 2 estágios,f1_1,0.9117647058823529
+5,5,classificacao,RF 2 estágios,f1_2,0.9416058394160584
+5,5,classificacao,RF 2 estágios,f1_3,0.9007633587786259
+5,5,classificacao,RF 2 estágios,f1_4,0.5714285714285714
+5,5,classificacao,RF 2 estágios,precision_macro,0.9522082527401676
+5,5,classificacao,RF 2 estágios,recall_macro,0.7788637393900552
+5,5,classificacao,RF 2 estágios,f1_macro,0.8313906188764022
+5,5,classificacao,RF 2 estágios,subtriagem_n,10.0
+5,5,classificacao,RF 2 estágios,subtriagem_taxa,0.041666666666666664
+5,5,classificacao,RF 2 estágios,sobretriagem_n,9.0
+5,5,classificacao,RF 2 estágios,sobretriagem_taxa,0.0375
+5,5,classificacao,MLP direta,acuracia,0.9083333333333333
+5,5,classificacao,MLP direta,precision_1,0.8857142857142857
+5,5,classificacao,MLP direta,precision_2,0.9117647058823529
+5,5,classificacao,MLP direta,precision_3,0.9076923076923077
+5,5,classificacao,MLP direta,precision_4,1.0
+5,5,classificacao,MLP direta,recall_1,0.8378378378378378
+5,5,classificacao,MLP direta,recall_2,0.9323308270676691
+5,5,classificacao,MLP direta,recall_3,0.9076923076923077
+5,5,classificacao,MLP direta,recall_4,0.8
+5,5,classificacao,MLP direta,f1_1,0.8611111111111112
+5,5,classificacao,MLP direta,f1_2,0.9219330855018587
+5,5,classificacao,MLP direta,f1_3,0.9076923076923077
+5,5,classificacao,MLP direta,f1_4,0.8888888888888888
+5,5,classificacao,MLP direta,precision_macro,0.9262928248222365
+5,5,classificacao,MLP direta,recall_macro,0.8694652431494536
+5,5,classificacao,MLP direta,f1_macro,0.8949063482985415
+5,5,classificacao,MLP direta,subtriagem_n,11.0
+5,5,classificacao,MLP direta,subtriagem_taxa,0.04583333333333333
+5,5,classificacao,MLP direta,sobretriagem_n,11.0
+5,5,classificacao,MLP direta,sobretriagem_taxa,0.04583333333333333
+5,5,classificacao,MLP 2 estágios,acuracia,0.925
+5,5,classificacao,MLP 2 estágios,precision_1,0.8823529411764706
+5,5,classificacao,MLP 2 estágios,precision_2,0.9333333333333333
+5,5,classificacao,MLP 2 estágios,precision_3,0.9264705882352942
+5,5,classificacao,MLP 2 estágios,precision_4,1.0
+5,5,classificacao,MLP 2 estágios,recall_1,0.8108108108108109
+5,5,classificacao,MLP 2 estágios,recall_2,0.9473684210526315
+5,5,classificacao,MLP 2 estágios,recall_3,0.9692307692307692
+5,5,classificacao,MLP 2 estágios,recall_4,0.6
+5,5,classificacao,MLP 2 estágios,f1_1,0.8450704225352113
+5,5,classificacao,MLP 2 estágios,f1_2,0.9402985074626866
+5,5,classificacao,MLP 2 estágios,f1_3,0.9473684210526315
+5,5,classificacao,MLP 2 estágios,f1_4,0.75
+5,5,classificacao,MLP 2 estágios,precision_macro,0.9355392156862745
+5,5,classificacao,MLP 2 estágios,recall_macro,0.831852500273553
+5,5,classificacao,MLP 2 estágios,f1_macro,0.8706843377626323
+5,5,classificacao,MLP 2 estágios,subtriagem_n,10.0
+5,5,classificacao,MLP 2 estágios,subtriagem_taxa,0.041666666666666664
+5,5,classificacao,MLP 2 estágios,sobretriagem_n,8.0
+5,5,classificacao,MLP 2 estágios,sobretriagem_taxa,0.03333333333333333
